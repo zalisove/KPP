@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="dtpCardList" type="dtpCardListType"/>
+  <xs:complexType name="ts_uchType">
+    <xs:sequence>
+      <xs:element name="ALCO">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value=""/>
+            <xs:enumeration value="88"/>
+            <xs:enumeration value="14"/>
+            <xs:enumeration value="15"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="INJURED_CARD_ID"/>
+      <xs:element name="k_UCH">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Водитель"/>
+            <xs:enumeration value="Пассажир"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="NPDD" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element name="n_UCH">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="1"/>
+            <xs:enumeration value="2"/>
+            <xs:enumeration value="3"/>
+            <xs:enumeration value="4"/>
+            <xs:enumeration value="6"/>
+            <xs:enumeration value="5"/>
+            <xs:enumeration value="8"/>
+            <xs:enumeration value="7"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="POL">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Не определен"/>
+            <xs:enumeration value="Мужской"/>
+            <xs:enumeration value="Женский"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="SAFETY_BELT"/>
+      <xs:element type="xs:string" name="SOP_NPDD" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="xs:string" name="s_SEAT_GROUP"/>
+      <xs:element name="s_SM">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Скрылся и впоследствии не установлен"/>
+            <xs:enumeration value="Нет (не скрывался)"/>
+            <xs:enumeration value="Скрылся, впоследствии разыскан (установлен)"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="s_T">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Не пострадал"/>
+            <xs:enumeration value="Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)"/>
+            <xs:enumeration value="Раненый, находящийся (находившийся) на стационарном лечении"/>
+            <xs:enumeration value="Скончался в течение 9 суток"/>
+            <xs:enumeration value="Скончался на месте ДТП по прибытию скорой медицинской помощи, но до транспортировки в мед. организацию"/>
+            <xs:enumeration value="Скончался в течение 1 суток"/>
+            <xs:enumeration value="Скончался в течение 5 суток"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="v_ST"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ts_infoType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="color"/>
+      <xs:element name="f_sob">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value=""/>
+            <xs:enumeration value="Частная собственность"/>
+            <xs:enumeration value="Иное"/>
+            <xs:enumeration value="Собственность субъектов Российской Федерации"/>
+            <xs:enumeration value="Коллективная собственность (общественных объединений, организаций, товариществ и др.)"/>
+            <xs:enumeration value="Федеральная собственность"/>
+            <xs:enumeration value="Муниципальная собственность"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="g_v"/>
+      <xs:element type="xs:string" name="m_pov"/>
+      <xs:element type="xs:string" name="m_ts"/>
+      <xs:element type="xs:string" name="marka_ts"/>
+      <xs:element name="n_ts">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="1"/>
+            <xs:enumeration value="2"/>
+            <xs:enumeration value="3"/>
+            <xs:enumeration value="4"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="o_pf">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value=""/>
+            <xs:enumeration value="Физические лица"/>
+            <xs:enumeration value="Юридические лица, являющиеся коммерческими организациями"/>
+            <xs:enumeration value="Юридические лица, являющиеся некоммерческими организациями"/>
+            <xs:enumeration value="Прочие некоммерческие организации"/>
+            <xs:enumeration value="Индивидуальные предприниматели без образования юридического лица"/>
+            <xs:enumeration value="Иные неюридические лица"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="r_rul">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value=""/>
+            <xs:enumeration value="Полноприводные"/>
+            <xs:enumeration value="Не заполнено"/>
+            <xs:enumeration value="С передним приводом"/>
+            <xs:enumeration value="С задним приводом"/>
+            <xs:enumeration value="Иное расположение рулевого управления"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="t_n">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Технические неисправности отсутствуют"/>
+            <xs:enumeration value="Неисправность внешних световых приборов"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="t_ts"/>
+      <xs:element name="ts_s">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Скрылось с места ДТП"/>
+            <xs:enumeration value="Осталось на месте ДТП"/>
+            <xs:enumeration value="Скрылось и установлено в срок свыше 10 суток"/>
+            <xs:enumeration value="Скрылось и установлено в срок до 1 суток"/>
+            <xs:enumeration value="Скрылось и установлено в срок от 3 до 10 суток"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="ts_uchType" name="ts_uch" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="uchInfoType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="ALCO"/>
+      <xs:element name="k_UCH">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Пешеход"/>
+            <xs:enumeration value="Пешеход, перед ДТП находившийся в (на) ТС в качестве водителя или пешеход, перед ДТП находившийся в (на) ТС в качестве пассажира"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="NPDD">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Нет нарушений"/>
+            <xs:enumeration value="Переход через проезжую часть вне пешеходного перехода в зоне его видимости либо при наличии в непосредственной близости подземного (надземного) пешеходного перехода"/>
+            <xs:enumeration value="Неожиданный выход из-за ТС"/>
+            <xs:enumeration value="Переход проезжей части в запрещённом месте (оборудованном пешеходными  ограждениями)"/>
+            <xs:enumeration value="Неподчинение сигналам регулирования"/>
+            <xs:enumeration value="Переход через проезжую часть в неустановленном месте (при наличии в зоне видимости перекрёстка)"/>
+            <xs:enumeration value="Движение вдоль проезжей части при наличии и удовлетворительном состоянии тротуара"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="n_UCH">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="2"/>
+            <xs:enumeration value="1"/>
+            <xs:enumeration value="3"/>
+            <xs:enumeration value="4"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="POL">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Мужской"/>
+            <xs:enumeration value="Женский"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="SOP_NPDD" maxOccurs="unbounded" minOccurs="0">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Нет нарушений"/>
+            <xs:enumeration value="Неожиданный выход из-за стоящего ТС"/>
+            <xs:enumeration value="Пешеход в состоянии алкогольного опьянения"/>
+            <xs:enumeration value="Нахождение на проезжей части без цели её перехода"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="s_SM">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Нет (не скрывался)"/>
+            <xs:enumeration value="Не установлен"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="s_T">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Раненый, находящийся (находившийся) на стационарном лечении"/>
+            <xs:enumeration value="Раненый, находящийся (находившийся)  на амбулаторном лечении, либо которому по характеру полученных травм обозначена необходимость амбулаторного лечения (вне зависимости от его фактического прохождения)"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="v_ST"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="infoDtpType">
+    <xs:sequence>
+      <xs:element name="CHOM">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Движение частично перекрыто"/>
+            <xs:enumeration value="Режим движения не изменялся"/>
+            <xs:enumeration value="Движение полностью перекрыто"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="COORD_L"/>
+      <xs:element type="xs:string" name="COORD_W"/>
+      <xs:element name="dor">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value=""/>
+            <xs:enumeration value="Западный скоростной диаметр"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="dor_k">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value=""/>
+            <xs:enumeration value="4"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="dor_z">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Местного значения (дорога местного значения, включая относящиеся к собственности поселений, муниципальных районов, городских округов)"/>
+            <xs:enumeration value="Не указано"/>
+            <xs:enumeration value="Частная (дорога, относящиеся к частной и иным формам собственности)"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="factor">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Сведения отсутствуют"/>
+            <xs:enumeration value="Сужение проезжей части вследствие проведения работ"/>
+            <xs:enumeration value="Участок, оборудованный искусственными неровностями и обозначенный соответствующими дорожными знаками и разметкой"/>
+            <xs:enumeration value="Режим движения нарушен вследствие ранее произошедшего ДТП"/>
+            <xs:enumeration value="Участок, оборудованный шумовыми полосами"/>
+            <xs:enumeration value="Сужение проезжей части припаркованным транспортом"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="house"/>
+      <xs:element name="k_ul">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Магистральные улицы районного значения"/>
+            <xs:enumeration value="Магистральные улицы общегородского значения"/>
+            <xs:enumeration value="Улицы и дороги местного значения в жилой застройке"/>
+            <xs:enumeration value="Иные места"/>
+            <xs:enumeration value="Магистральные дороги"/>
+            <xs:enumeration value="Улицы и дороги местного значения научно-производственных промышленных и коммунально-складских районов"/>
+            <xs:enumeration value="Главные улицы"/>
+            <xs:enumeration value="Проезды"/>
+            <xs:enumeration value=""/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="km">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="0"/>
+            <xs:enumeration value="36"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="m">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="0"/>
+            <xs:enumeration value="300"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="NP"/>
+      <xs:element name="ndu" maxOccurs="unbounded" minOccurs="0">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Не установлены"/>
+            <xs:enumeration value="Недостатки зимнего содержания"/>
+            <xs:enumeration value="Отсутствие пешеходных ограждений в необходимых местах"/>
+            <xs:enumeration value="Отсутствие, плохая различимость горизонтальной разметки проезжей части"/>
+            <xs:enumeration value="Отсутствие дорожных знаков в необходимых местах"/>
+            <xs:enumeration value="Неправильное применение, плохая видимость дорожных знаков"/>
+            <xs:enumeration value="Низкие сцепные качества покрытия"/>
+            <xs:enumeration value="Неровное покрытие"/>
+            <xs:enumeration value="Плохая видимость светофора"/>
+            <xs:enumeration value="Неисправность светофора"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="OBJ_DTP" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element name="osv">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="В темное время суток, освещение включено"/>
+            <xs:enumeration value="Светлое время суток"/>
+            <xs:enumeration value="Сумерки"/>
+            <xs:enumeration value="В темное время суток, освещение отсутствует"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="s_dtp"/>
+      <xs:element name="s_pch">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Мокрое"/>
+            <xs:enumeration value="Обработанное противогололедными материалами"/>
+            <xs:enumeration value="Со снежным накатом"/>
+            <xs:enumeration value="Заснеженное"/>
+            <xs:enumeration value="Гололедица"/>
+            <xs:enumeration value="Загрязненное"/>
+            <xs:enumeration value="Сухое"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="sdor" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element name="spog" maxOccurs="unbounded" minOccurs="0">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Пасмурно"/>
+            <xs:enumeration value="Снегопад"/>
+            <xs:enumeration value="Ясно"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="street"/>
+      <xs:element type="ts_infoType" name="ts_info" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="uchInfoType" name="uchInfo" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="tabType">
+    <xs:sequence>
+      <xs:element name="DTPV">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Наезд на пешехода"/>
+            <xs:enumeration value="Падение пассажира"/>
+            <xs:enumeration value="Столкновение"/>
+            <xs:enumeration value="Наезд на стоящее ТС"/>
+            <xs:enumeration value="Наезд на препятствие"/>
+            <xs:enumeration value="Иной вид ДТП"/>
+            <xs:enumeration value="Съезд с дороги"/>
+            <xs:enumeration value="Опрокидывание"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="date"/>
+      <xs:element type="xs:string" name="district"/>
+      <xs:element type="infoDtpType" name="infoDtp"/>
+      <xs:element name="KTS">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="1"/>
+            <xs:enumeration value="2"/>
+            <xs:enumeration value="4"/>
+            <xs:enumeration value="3"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="KUCH">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="2"/>
+            <xs:enumeration value="3"/>
+            <xs:enumeration value="4"/>
+            <xs:enumeration value="6"/>
+            <xs:enumeration value="1"/>
+            <xs:enumeration value="5"/>
+            <xs:enumeration value="8"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="kartId"/>
+      <xs:element name="POG">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="0"/>
+            <xs:enumeration value="1"/>
+            <xs:enumeration value="2"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="RAN">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="1"/>
+            <xs:enumeration value="2"/>
+            <xs:enumeration value="3"/>
+            <xs:enumeration value="0"/>
+            <xs:enumeration value="4"/>
+            <xs:enumeration value="7"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="rowNum"/>
+      <xs:element type="xs:string" name="time"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="dtpCardListType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="countCard"/>
+      <xs:element type="xs:string" name="dateName"/>
+      <xs:element type="xs:string" name="pog"/>
+      <xs:element type="xs:string" name="pokName"/>
+      <xs:element type="xs:string" name="posl"/>
+      <xs:element type="xs:string" name="ran"/>
+      <xs:element type="xs:string" name="regName"/>
+      <xs:element type="tabType" name="tab" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

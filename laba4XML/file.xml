@@ -1,0 +1,4902 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DTPList>
+    <DTP>
+        <WCoordinate>60.057981</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.339968</LCoordinate>
+        <WCoordinate>59.989956</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красногвардейский район</area>
+        <LCoordinate>30.408032</LCoordinate>
+        <WCoordinate>59.936215</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.276539</LCoordinate>
+        <WCoordinate>59.84371</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Петродворцовый район</area>
+        <LCoordinate>30.025667</LCoordinate>
+        <WCoordinate>59.853863</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.431474</LCoordinate>
+        <WCoordinate>59.989972</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.465066</LCoordinate>
+        <WCoordinate>59.917957</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.341792</LCoordinate>
+        <WCoordinate>60.075932</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.210471</LCoordinate>
+        <WCoordinate>59.846486</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.44613</LCoordinate>
+        <WCoordinate>59.874207</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.47013</LCoordinate>
+        <WCoordinate>59.919775</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.402818</LCoordinate>
+        <WCoordinate>60.042748</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Адмиралтейский район</area>
+        <LCoordinate>30.29671</LCoordinate>
+        <WCoordinate>59.935081</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.321622</LCoordinate>
+        <WCoordinate>60.062651</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.354259</LCoordinate>
+        <WCoordinate>59.848436</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.256552</LCoordinate>
+        <WCoordinate>59.841101</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Пушкинский район</area>
+        <LCoordinate>30.499957</LCoordinate>
+        <WCoordinate>59.771112</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.296645</LCoordinate>
+        <WCoordinate>59.851271</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.229665</LCoordinate>
+        <WCoordinate>59.857526</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.482737</LCoordinate>
+        <WCoordinate>59.905661</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.446999</LCoordinate>
+        <WCoordinate>59.893382</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Центральный район</area>
+        <LCoordinate>30.348712</LCoordinate>
+        <WCoordinate>59.946495</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Центральный район</area>
+        <LCoordinate>30.348412</LCoordinate>
+        <WCoordinate>59.941476</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Петроградский район</area>
+        <LCoordinate>30.281303</LCoordinate>
+        <WCoordinate>59.966289</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Адмиралтейский район</area>
+        <LCoordinate>30.298748</LCoordinate>
+        <WCoordinate>59.920517</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Адмиралтейский район</area>
+        <LCoordinate>30.281303</LCoordinate>
+        <WCoordinate>59.913439</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.287021</LCoordinate>
+        <WCoordinate>59.861438</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>30.307159</LCoordinate>
+        <WCoordinate>59.996454</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Пушкинский район</area>
+        <LCoordinate>30.464541</LCoordinate>
+        <WCoordinate>59.737087</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.377948</LCoordinate>
+        <WCoordinate>60.016926</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.193251</LCoordinate>
+        <WCoordinate>59.82346</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красногвардейский район</area>
+        <LCoordinate>30.492103</LCoordinate>
+        <WCoordinate>59.935828</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красногвардейский район</area>
+        <LCoordinate>30.460603</LCoordinate>
+        <WCoordinate>59.952518</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.275434</LCoordinate>
+        <WCoordinate>59.895142</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красногвардейский район</area>
+        <LCoordinate>30.502467</LCoordinate>
+        <WCoordinate>59.944867</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.147128</LCoordinate>
+        <WCoordinate>59.847747</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Центральный район</area>
+        <LCoordinate>30.325377</LCoordinate>
+        <WCoordinate>59.929963</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.179529</LCoordinate>
+        <WCoordinate>59.861195</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Центральный район</area>
+        <LCoordinate>30.345225</LCoordinate>
+        <WCoordinate>59.940654</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Петродворцовый район</area>
+        <LCoordinate>29.966884</LCoordinate>
+        <WCoordinate>59.871666</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.319701</LCoordinate>
+        <WCoordinate>60.030065</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.346963</LCoordinate>
+        <WCoordinate>59.965032</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Фрунзенский район</area>
+        <LCoordinate>30.341331</LCoordinate>
+        <WCoordinate>59.915601</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.407302</LCoordinate>
+        <WCoordinate>59.959979</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.344667</LCoordinate>
+        <WCoordinate>60.037031</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.321622</LCoordinate>
+        <WCoordinate>59.853356</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красногвардейский район</area>
+        <LCoordinate>30.495965</LCoordinate>
+        <WCoordinate>59.970037</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.321354</LCoordinate>
+        <WCoordinate>60.081861</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Пушкинский район</area>
+        <LCoordinate>30.41316</LCoordinate>
+        <WCoordinate>59.719488</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красногвардейский район</area>
+        <LCoordinate>30.480258</LCoordinate>
+        <WCoordinate>59.944921</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Фрунзенский район</area>
+        <LCoordinate>30.39652</LCoordinate>
+        <WCoordinate>59.838875</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.478048</LCoordinate>
+        <WCoordinate>59.910782</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.48528</LCoordinate>
+        <WCoordinate>59.928754</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>30.2908</LCoordinate>
+        <WCoordinate>60.0092</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Фрунзенский район</area>
+        <LCoordinate>30.400511</LCoordinate>
+        <WCoordinate>59.851319</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>30.259845</LCoordinate>
+        <WCoordinate>60.00051</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.480269</LCoordinate>
+        <WCoordinate>59.894782</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.436163</LCoordinate>
+        <WCoordinate>60.004007</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>30.105779</LCoordinate>
+        <WCoordinate>59.997795</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.468414</LCoordinate>
+        <WCoordinate>59.848372</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.304348</LCoordinate>
+        <WCoordinate>59.85674</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.329046</LCoordinate>
+        <WCoordinate>60.0</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.313425</LCoordinate>
+        <WCoordinate>59.875758</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.453243</LCoordinate>
+        <WCoordinate>59.915644</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Пушкинский район</area>
+        <LCoordinate>30.4319</LCoordinate>
+        <WCoordinate>59.6886</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Колпинский район</area>
+        <LCoordinate>30.70359</LCoordinate>
+        <WCoordinate>59.773445</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>30.243119</LCoordinate>
+        <WCoordinate>60.030692</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.378141</LCoordinate>
+        <WCoordinate>59.980822</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Петроградский район</area>
+        <LCoordinate>30.268428</LCoordinate>
+        <WCoordinate>59.971132</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Центральный район</area>
+        <LCoordinate>30.387175</LCoordinate>
+        <WCoordinate>59.956353</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Адмиралтейский район</area>
+        <LCoordinate>30.258697</LCoordinate>
+        <WCoordinate>59.901497</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Петродворцовый район</area>
+        <LCoordinate>29.959202</LCoordinate>
+        <WCoordinate>59.872786</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.379397</LCoordinate>
+        <WCoordinate>60.018234</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.406423</LCoordinate>
+        <WCoordinate>59.898323</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.382047</LCoordinate>
+        <WCoordinate>60.053285</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Петродворцовый район</area>
+        <LCoordinate>30.053809</LCoordinate>
+        <WCoordinate>59.835252</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.357542</LCoordinate>
+        <WCoordinate>59.986484</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.294049</LCoordinate>
+        <WCoordinate>59.858081</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.482394</LCoordinate>
+        <WCoordinate>59.907211</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Пушкинский район</area>
+        <LCoordinate>30.426056</LCoordinate>
+        <WCoordinate>59.786794</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Пушкинский район</area>
+        <LCoordinate>30.373796</LCoordinate>
+        <WCoordinate>59.806624</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.318811</LCoordinate>
+        <WCoordinate>60.049964</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красногвардейский район</area>
+        <LCoordinate>30.435519</LCoordinate>
+        <WCoordinate>59.933549</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>30.202875</LCoordinate>
+        <WCoordinate>59.988599</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Колпинский район</area>
+        <LCoordinate>30.702968</LCoordinate>
+        <WCoordinate>59.773532</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>30.240222</LCoordinate>
+        <WCoordinate>60.033202</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Центральный район</area>
+        <LCoordinate>30.353143</LCoordinate>
+        <WCoordinate>59.938875</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Василеостровский район</area>
+        <LCoordinate>30.261079</LCoordinate>
+        <WCoordinate>59.948719</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.373732</LCoordinate>
+        <WCoordinate>59.95782</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>29.986893</LCoordinate>
+        <WCoordinate>60.03201</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Колпинский район</area>
+        <LCoordinate>30.703611</LCoordinate>
+        <WCoordinate>59.773424</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>30.29333</LCoordinate>
+        <WCoordinate>60.015285</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.431539</LCoordinate>
+        <WCoordinate>60.002596</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Центральный район</area>
+        <LCoordinate>30.399277</LCoordinate>
+        <WCoordinate>59.951357</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.404931</LCoordinate>
+        <WCoordinate>60.020159</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.475634</LCoordinate>
+        <WCoordinate>59.859735</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Петродворцовый район</area>
+        <LCoordinate>30.09387</LCoordinate>
+        <WCoordinate>59.853609</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.411422</LCoordinate>
+        <WCoordinate>59.985406</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.18307</LCoordinate>
+        <WCoordinate>59.865203</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.316815</LCoordinate>
+        <WCoordinate>59.790919</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.271947</LCoordinate>
+        <WCoordinate>59.890455</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Петроградский район</area>
+        <LCoordinate>30.290669</LCoordinate>
+        <WCoordinate>59.952609</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.175753</LCoordinate>
+        <WCoordinate>59.83302</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.112667</LCoordinate>
+        <WCoordinate>59.852074</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.413589</LCoordinate>
+        <WCoordinate>59.882908</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.349903</LCoordinate>
+        <WCoordinate>59.952947</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>30.08239</LCoordinate>
+        <WCoordinate>60.000188</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.191331</LCoordinate>
+        <WCoordinate>59.846022</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.436345</LCoordinate>
+        <WCoordinate>60.003369</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>30.204957</LCoordinate>
+        <WCoordinate>59.992763</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.214398</LCoordinate>
+        <WCoordinate>59.859881</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.337415</LCoordinate>
+        <WCoordinate>59.855053</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.339818</LCoordinate>
+        <WCoordinate>59.90154</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.363829</LCoordinate>
+        <WCoordinate>59.849843</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.28156</LCoordinate>
+        <WCoordinate>59.84773</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.256315</LCoordinate>
+        <WCoordinate>59.851804</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.136871</LCoordinate>
+        <WCoordinate>60.069916</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.303426</LCoordinate>
+        <WCoordinate>60.062372</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Петродворцовый район</area>
+        <LCoordinate>29.766362</LCoordinate>
+        <WCoordinate>59.910535</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Колпинский район</area>
+        <LCoordinate>30.5948</LCoordinate>
+        <WCoordinate>59.7866</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.10668</LCoordinate>
+        <WCoordinate>59.75472</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.391252</LCoordinate>
+        <WCoordinate>60.048341</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.319895</LCoordinate>
+        <WCoordinate>59.888738</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.382873</LCoordinate>
+        <WCoordinate>59.966407</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>30.228388</LCoordinate>
+        <WCoordinate>60.017231</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Фрунзенский район</area>
+        <LCoordinate>30.35354</LCoordinate>
+        <WCoordinate>59.897241</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.397711</LCoordinate>
+        <WCoordinate>59.971562</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.435841</LCoordinate>
+        <WCoordinate>59.895347</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Центральный район</area>
+        <LCoordinate>30.357971</LCoordinate>
+        <WCoordinate>59.926523</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.345654</LCoordinate>
+        <WCoordinate>59.852435</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.347307</LCoordinate>
+        <WCoordinate>60.039839</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.314144</LCoordinate>
+        <WCoordinate>59.844858</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.294349</LCoordinate>
+        <WCoordinate>59.851988</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.24475</LCoordinate>
+        <WCoordinate>60.108275</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.226876</LCoordinate>
+        <WCoordinate>60.052856</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красногвардейский район</area>
+        <LCoordinate>30.411894</LCoordinate>
+        <WCoordinate>59.929216</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.436152</LCoordinate>
+        <WCoordinate>60.004039</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.379418</LCoordinate>
+        <WCoordinate>59.957401</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Курортный район</area>
+        <LCoordinate>29.964041</LCoordinate>
+        <WCoordinate>60.076633</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Петродворцовый район</area>
+        <LCoordinate>29.770943</LCoordinate>
+        <WCoordinate>59.915322</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.488777</LCoordinate>
+        <WCoordinate>59.90026</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Адмиралтейский район</area>
+        <LCoordinate>30.260972</LCoordinate>
+        <WCoordinate>59.904429</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Центральный район</area>
+        <LCoordinate>30.347843</LCoordinate>
+        <WCoordinate>59.931329</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.336084</LCoordinate>
+        <WCoordinate>59.969328</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Курортный район</area>
+        <LCoordinate>29.955683</LCoordinate>
+        <WCoordinate>60.092198</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.320452</LCoordinate>
+        <WCoordinate>59.864298</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Фрунзенский район</area>
+        <LCoordinate>30.380352</LCoordinate>
+        <WCoordinate>59.871208</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.306644</LCoordinate>
+        <WCoordinate>59.843651</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.252174</LCoordinate>
+        <WCoordinate>60.098991</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Пушкинский район</area>
+        <LCoordinate>30.562795</LCoordinate>
+        <WCoordinate>59.712876</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.28686</LCoordinate>
+        <WCoordinate>59.861373</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Пушкинский район</area>
+        <LCoordinate>30.394621</LCoordinate>
+        <WCoordinate>59.785002</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Пушкинский район</area>
+        <LCoordinate>30.399224</LCoordinate>
+        <WCoordinate>59.778544</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Фрунзенский район</area>
+        <LCoordinate>30.372359</LCoordinate>
+        <WCoordinate>59.878639</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.380641</LCoordinate>
+        <WCoordinate>60.033243</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.193595</LCoordinate>
+        <WCoordinate>59.845909</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Петроградский район</area>
+        <LCoordinate>30.292246</LCoordinate>
+        <WCoordinate>59.973258</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.378968</LCoordinate>
+        <WCoordinate>60.02344</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.481439</LCoordinate>
+        <WCoordinate>59.869835</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.418589</LCoordinate>
+        <WCoordinate>59.912267</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Колпинский район</area>
+        <LCoordinate>30.710853</LCoordinate>
+        <WCoordinate>59.772187</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.316054</LCoordinate>
+        <WCoordinate>59.841398</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.380341</LCoordinate>
+        <WCoordinate>60.052556</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красногвардейский район</area>
+        <LCoordinate>30.466483</LCoordinate>
+        <WCoordinate>59.955676</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Пушкинский район</area>
+        <LCoordinate>30.378695</LCoordinate>
+        <WCoordinate>59.801763</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.175388</LCoordinate>
+        <WCoordinate>59.841064</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.368378</LCoordinate>
+        <WCoordinate>60.037358</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Центральный район</area>
+        <LCoordinate>30.324143</LCoordinate>
+        <WCoordinate>59.929415</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.514462</LCoordinate>
+        <WCoordinate>59.833883</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Центральный район</area>
+        <LCoordinate>30.348766</LCoordinate>
+        <WCoordinate>59.946205</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.267302</LCoordinate>
+        <WCoordinate>59.878811</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Центральный район</area>
+        <LCoordinate>30.345011</LCoordinate>
+        <WCoordinate>59.916365</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Фрунзенский район</area>
+        <LCoordinate>30.355933</LCoordinate>
+        <WCoordinate>59.873981</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.213776</LCoordinate>
+        <WCoordinate>59.846534</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>30.234568</LCoordinate>
+        <WCoordinate>60.037932</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.15467</LCoordinate>
+        <WCoordinate>59.846739</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Фрунзенский район</area>
+        <LCoordinate>30.388355</LCoordinate>
+        <WCoordinate>59.874644</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.246477</LCoordinate>
+        <WCoordinate>59.830341</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красногвардейский район</area>
+        <LCoordinate>30.435948</LCoordinate>
+        <WCoordinate>59.933581</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.319036</LCoordinate>
+        <WCoordinate>60.024635</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Выборгский район</area>
+        <LCoordinate>30.322748</LCoordinate>
+        <WCoordinate>60.015612</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.387465</LCoordinate>
+        <WCoordinate>60.027294</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Фрунзенский район</area>
+        <LCoordinate>30.414319</LCoordinate>
+        <WCoordinate>59.837732</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.150894</LCoordinate>
+        <WCoordinate>59.790055</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Пушкинский район</area>
+        <LCoordinate>30.450282</LCoordinate>
+        <WCoordinate>59.818433</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Московский район</area>
+        <LCoordinate>30.314251</LCoordinate>
+        <WCoordinate>59.861675</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Адмиралтейский район</area>
+        <LCoordinate>30.318167</LCoordinate>
+        <WCoordinate>59.913369</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>30.130455</LCoordinate>
+        <WCoordinate>59.999329</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.259953</LCoordinate>
+        <WCoordinate>59.87005</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Центральный район</area>
+        <LCoordinate>30.337265</LCoordinate>
+        <WCoordinate>59.947967</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.210847</LCoordinate>
+        <WCoordinate>59.824269</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Фрунзенский район</area>
+        <LCoordinate>30.420917</LCoordinate>
+        <WCoordinate>59.845057</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Невский район</area>
+        <LCoordinate>30.444853</LCoordinate>
+        <WCoordinate>59.875683</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.211887</LCoordinate>
+        <WCoordinate>59.824436</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Приморский район</area>
+        <LCoordinate>30.316826</LCoordinate>
+        <WCoordinate>59.994587</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красногвардейский район</area>
+        <LCoordinate>30.457277</LCoordinate>
+        <WCoordinate>59.967825</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.411658</LCoordinate>
+        <WCoordinate>59.970649</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Василеостровский район</area>
+        <LCoordinate>30.27169</LCoordinate>
+        <WCoordinate>59.946269</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Красносельский район</area>
+        <LCoordinate>30.175774</LCoordinate>
+        <WCoordinate>59.824123</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Адмиралтейский район</area>
+        <LCoordinate>30.301741</LCoordinate>
+        <WCoordinate>59.911508</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Калининский район</area>
+        <LCoordinate>30.435809</LCoordinate>
+        <WCoordinate>60.004345</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Петродворцовый район</area>
+        <LCoordinate>29.900236</LCoordinate>
+        <WCoordinate>59.870416</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Санкт-Петербург</region>
+        <area>Кировский район</area>
+        <LCoordinate>30.212874</LCoordinate>
+        <WCoordinate>59.833328</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КОРЕНОВСКИЙ</area>
+        <LCoordinate>39.410201</LCoordinate>
+        <WCoordinate>45.468882</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КРЫМСКИЙ</area>
+        <LCoordinate>37.982376</LCoordinate>
+        <WCoordinate>44.946637</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>СЛАВЯНСКИЙ</area>
+        <LCoordinate>37.972687</LCoordinate>
+        <WCoordinate>45.413839</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ТИМАШЕВСКИЙ</area>
+        <LCoordinate>38.93442</LCoordinate>
+        <WCoordinate>45.611396</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ЕЙСКИЙ</area>
+        <LCoordinate>38.259405</LCoordinate>
+        <WCoordinate>46.71365</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КАНЕВСКОЙ</area>
+        <LCoordinate>38.964407</LCoordinate>
+        <WCoordinate>46.083988</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КАЛИНИНСКИЙ</area>
+        <LCoordinate>38.714855</LCoordinate>
+        <WCoordinate>45.448224</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>39.010005</LCoordinate>
+        <WCoordinate>45.020725</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ГОРЯЧИЙ КЛЮЧ (РАЙОН)</area>
+        <LCoordinate>39.118409</LCoordinate>
+        <WCoordinate>44.629985</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КАВКАЗСКИЙ (Г. КРОПОТКИН)</area>
+        <LCoordinate>40.572231</LCoordinate>
+        <WCoordinate>45.451453</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>39.011979</LCoordinate>
+        <WCoordinate>45.114042</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АБИНСКИЙ</area>
+        <LCoordinate>38.490386</LCoordinate>
+        <WCoordinate>45.090354</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>40.2384</LCoordinate>
+        <WCoordinate>43.6852</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КРЫМСКИЙ</area>
+        <LCoordinate>37.619419</LCoordinate>
+        <WCoordinate>45.113814</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АРМАВИР (РАЙОН)</area>
+        <LCoordinate>41.129411</LCoordinate>
+        <WCoordinate>45.004205</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АРМАВИР (РАЙОН)</area>
+        <LCoordinate>41.134024</LCoordinate>
+        <WCoordinate>44.970762</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АРМАВИР (РАЙОН)</area>
+        <LCoordinate>41.077875</LCoordinate>
+        <WCoordinate>44.980533</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ПАВЛОВСКИЙ</area>
+        <LCoordinate>39.784423</LCoordinate>
+        <WCoordinate>46.147083</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>38.944205</LCoordinate>
+        <WCoordinate>45.053136</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.НОВОРОССИЙСК</area>
+        <LCoordinate>37.778184</LCoordinate>
+        <WCoordinate>44.717023</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ДИНСКОЙ</area>
+        <LCoordinate>39.249043</LCoordinate>
+        <WCoordinate>45.29292</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.НОВОРОССИЙСК</area>
+        <LCoordinate>37.765</LCoordinate>
+        <WCoordinate>44.6978</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>УСПЕНСКИЙ</area>
+        <LCoordinate>41.419852</LCoordinate>
+        <WCoordinate>44.83037</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ДИНСКОЙ</area>
+        <LCoordinate>39.236577</LCoordinate>
+        <WCoordinate>45.154995</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ТЕМРЮКСКИЙ</area>
+        <LCoordinate>37.396624</LCoordinate>
+        <WCoordinate>45.275785</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АБИНСКИЙ</area>
+        <LCoordinate>38.144231</LCoordinate>
+        <WCoordinate>44.866759</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>СЕВЕРСКИЙ</area>
+        <LCoordinate>38.56022</LCoordinate>
+        <WCoordinate>44.846194</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АБИНСКИЙ</area>
+        <LCoordinate>38.308425</LCoordinate>
+        <WCoordinate>44.84309</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АРМАВИР (РАЙОН)</area>
+        <LCoordinate>41.085584</LCoordinate>
+        <WCoordinate>45.014832</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.765733</LCoordinate>
+        <WCoordinate>43.583165</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУЩЕВСКИЙ</area>
+        <LCoordinate>39.672468</LCoordinate>
+        <WCoordinate>46.571902</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.784498</LCoordinate>
+        <WCoordinate>43.54784</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.924</LCoordinate>
+        <WCoordinate>43.4652</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.71946</LCoordinate>
+        <WCoordinate>43.587144</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КАНЕВСКОЙ</area>
+        <LCoordinate>38.968076</LCoordinate>
+        <WCoordinate>46.078052</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУЩЕВСКИЙ</area>
+        <LCoordinate>39.563141</LCoordinate>
+        <WCoordinate>46.727977</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.803789</LCoordinate>
+        <WCoordinate>43.569641</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КРЫМСКИЙ</area>
+        <LCoordinate>37.991087</LCoordinate>
+        <WCoordinate>44.929405</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>СЕВЕРСКИЙ</area>
+        <LCoordinate>38.786802</LCoordinate>
+        <WCoordinate>44.775346</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ЛАБИНСКИЙ</area>
+        <LCoordinate>40.725932</LCoordinate>
+        <WCoordinate>44.647208</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КРАСНОАРМЕЙСКИЙ</area>
+        <LCoordinate>38.200718</LCoordinate>
+        <WCoordinate>45.366062</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ПРИМОРСКО-АХТАРСКИЙ</area>
+        <LCoordinate>38.209698</LCoordinate>
+        <WCoordinate>46.050167</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУРОРТ АНАПА</area>
+        <LCoordinate>37.316072</LCoordinate>
+        <WCoordinate>45.063337</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>НОВОКУБАНСКИЙ</area>
+        <LCoordinate>40.891934</LCoordinate>
+        <WCoordinate>45.157722</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ТИХОРЕЦКИЙ</area>
+        <LCoordinate>40.129055</LCoordinate>
+        <WCoordinate>45.860443</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ТУАПСИНСКИЙ</area>
+        <LCoordinate>39.102541</LCoordinate>
+        <WCoordinate>44.096893</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ГУЛЬКЕВИЧЕСКИЙ</area>
+        <LCoordinate>40.671483</LCoordinate>
+        <WCoordinate>45.363439</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ТЕМРЮКСКИЙ</area>
+        <LCoordinate>37.650747</LCoordinate>
+        <WCoordinate>45.201968</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ДИНСКОЙ</area>
+        <LCoordinate>39.005917</LCoordinate>
+        <WCoordinate>45.237124</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КРЫМСКИЙ</area>
+        <LCoordinate>37.969415</LCoordinate>
+        <WCoordinate>44.922675</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.НОВОРОССИЙСК</area>
+        <LCoordinate>37.785201</LCoordinate>
+        <WCoordinate>44.696344</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.НОВОРОССИЙСК</area>
+        <LCoordinate>37.764498</LCoordinate>
+        <WCoordinate>44.744383</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУРОРТ АНАПА</area>
+        <LCoordinate>37.320685</LCoordinate>
+        <WCoordinate>44.901613</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУРОРТ АНАПА</area>
+        <LCoordinate>37.362356</LCoordinate>
+        <WCoordinate>44.899477</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУРОРТ АНАПА</area>
+        <LCoordinate>37.346263</LCoordinate>
+        <WCoordinate>44.859428</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КРЫЛОВСКОЙ</area>
+        <LCoordinate>40.08718</LCoordinate>
+        <WCoordinate>46.533211</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.НОВОРОССИЙСК</area>
+        <LCoordinate>37.630298</LCoordinate>
+        <WCoordinate>44.862881</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>39.088551</LCoordinate>
+        <WCoordinate>45.014756</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ДИНСКОЙ</area>
+        <LCoordinate>39.221363</LCoordinate>
+        <WCoordinate>45.231737</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>СЕВЕРСКИЙ</area>
+        <LCoordinate>38.65664</LCoordinate>
+        <WCoordinate>44.843547</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>39.012601</LCoordinate>
+        <WCoordinate>45.106182</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>БЕЛОРЕЧЕНСКИЙ</area>
+        <LCoordinate>39.872754</LCoordinate>
+        <WCoordinate>44.7845</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>БЕЛОРЕЧЕНСКИЙ</area>
+        <LCoordinate>39.865544</LCoordinate>
+        <WCoordinate>44.966772</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУРГАНИНСКИЙ</area>
+        <LCoordinate>40.453495</LCoordinate>
+        <WCoordinate>45.076263</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.702262</LCoordinate>
+        <WCoordinate>43.63623</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>38.943465</LCoordinate>
+        <WCoordinate>45.04529</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>БРЮХОВЕЦКИЙ</area>
+        <LCoordinate>39.002012</LCoordinate>
+        <WCoordinate>45.811804</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ТБИЛИССКИЙ</area>
+        <LCoordinate>40.22511</LCoordinate>
+        <WCoordinate>45.361599</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ТЕМРЮКСКИЙ</area>
+        <LCoordinate>37.410947</LCoordinate>
+        <WCoordinate>45.262299</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>39.090278</LCoordinate>
+        <WCoordinate>45.037459</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КАВКАЗСКИЙ (Г. КРОПОТКИН)</area>
+        <LCoordinate>40.442004</LCoordinate>
+        <WCoordinate>45.406917</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>БЕЛОРЕЧЕНСКИЙ</area>
+        <LCoordinate>39.779745</LCoordinate>
+        <WCoordinate>44.717359</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>БЕЛОРЕЧЕНСКИЙ</area>
+        <LCoordinate>39.88801</LCoordinate>
+        <WCoordinate>44.747328</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>БЕЛОРЕЧЕНСКИЙ</area>
+        <LCoordinate>39.610401</LCoordinate>
+        <WCoordinate>44.933924</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>39.02391</LCoordinate>
+        <WCoordinate>45.07324</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.868559</LCoordinate>
+        <WCoordinate>43.513257</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АРМАВИР (РАЙОН)</area>
+        <LCoordinate>41.073128</LCoordinate>
+        <WCoordinate>44.986201</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУРГАНИНСКИЙ</area>
+        <LCoordinate>40.601027</LCoordinate>
+        <WCoordinate>44.999388</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>38.984942</LCoordinate>
+        <WCoordinate>45.027709</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.730189</LCoordinate>
+        <WCoordinate>43.57104</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ЛАБИНСКИЙ</area>
+        <LCoordinate>40.722413</LCoordinate>
+        <WCoordinate>44.654696</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУРОРТ АНАПА</area>
+        <LCoordinate>37.448359</LCoordinate>
+        <WCoordinate>45.11763</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУЩЕВСКИЙ</area>
+        <LCoordinate>39.651461</LCoordinate>
+        <WCoordinate>46.704674</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.754339</LCoordinate>
+        <WCoordinate>43.647426</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>39.016871</LCoordinate>
+        <WCoordinate>45.060593</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>38.974525</LCoordinate>
+        <WCoordinate>45.079142</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КОРЕНОВСКИЙ</area>
+        <LCoordinate>39.450649</LCoordinate>
+        <WCoordinate>45.474464</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.НОВОРОССИЙСК</area>
+        <LCoordinate>37.76885</LCoordinate>
+        <WCoordinate>44.685475</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ВЫСЕЛКОВСКИЙ</area>
+        <LCoordinate>39.671019</LCoordinate>
+        <WCoordinate>45.577035</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>СЛАВЯНСКИЙ</area>
+        <LCoordinate>38.097324</LCoordinate>
+        <WCoordinate>45.172114</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АРМАВИР (РАЙОН)</area>
+        <LCoordinate>41.07743</LCoordinate>
+        <WCoordinate>44.980342</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АБИНСКИЙ</area>
+        <LCoordinate>38.302127</LCoordinate>
+        <WCoordinate>44.83743</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.573312</LCoordinate>
+        <WCoordinate>43.725336</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>39.020058</LCoordinate>
+        <WCoordinate>45.055675</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ДИНСКОЙ</area>
+        <LCoordinate>39.250996</LCoordinate>
+        <WCoordinate>45.20797</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>СЛАВЯНСКИЙ</area>
+        <LCoordinate>37.939814</LCoordinate>
+        <WCoordinate>45.410472</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КРЫМСКИЙ</area>
+        <LCoordinate>37.650769</LCoordinate>
+        <WCoordinate>45.116737</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АРМАВИР (РАЙОН)</area>
+        <LCoordinate>41.159602</LCoordinate>
+        <WCoordinate>44.847563</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.71563</LCoordinate>
+        <WCoordinate>43.587906</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ТУАПСИНСКИЙ</area>
+        <LCoordinate>39.097863</LCoordinate>
+        <WCoordinate>44.112602</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.НОВОРОССИЙСК</area>
+        <LCoordinate>37.776618</LCoordinate>
+        <WCoordinate>44.68713</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ДИНСКОЙ</area>
+        <LCoordinate>39.228777</LCoordinate>
+        <WCoordinate>45.235462</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КАВКАЗСКИЙ (Г. КРОПОТКИН)</area>
+        <LCoordinate>40.536922</LCoordinate>
+        <WCoordinate>45.430624</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АРМАВИР (РАЙОН)</area>
+        <LCoordinate>41.152672</LCoordinate>
+        <WCoordinate>44.973747</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АРМАВИР (РАЙОН)</area>
+        <LCoordinate>41.106441</LCoordinate>
+        <WCoordinate>45.043843</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>СЕВЕРСКИЙ</area>
+        <LCoordinate>38.492886</LCoordinate>
+        <WCoordinate>44.849891</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ЕЙСКИЙ</area>
+        <LCoordinate>38.26375</LCoordinate>
+        <WCoordinate>46.70814</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АПШЕРОНСКИЙ</area>
+        <LCoordinate>39.7197</LCoordinate>
+        <WCoordinate>44.4533</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.773791</LCoordinate>
+        <WCoordinate>43.557132</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ЕЙСКИЙ</area>
+        <LCoordinate>38.285551</LCoordinate>
+        <WCoordinate>46.677048</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>НОВОКУБАНСКИЙ</area>
+        <LCoordinate>41.017542</LCoordinate>
+        <WCoordinate>45.106947</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>АБИНСКИЙ</area>
+        <LCoordinate>38.171718</LCoordinate>
+        <WCoordinate>44.852971</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>38.979288</LCoordinate>
+        <WCoordinate>45.097405</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ЛАБИНСКИЙ</area>
+        <LCoordinate>40.73724</LCoordinate>
+        <WCoordinate>44.636529</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.НОВОРОССИЙСК</area>
+        <LCoordinate>37.74782</LCoordinate>
+        <WCoordinate>44.73338</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУРОРТ АНАПА</area>
+        <LCoordinate>37.413061</LCoordinate>
+        <WCoordinate>45.11277</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.690299</LCoordinate>
+        <WCoordinate>43.646627</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.775379</LCoordinate>
+        <WCoordinate>43.575471</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУРГАНИНСКИЙ</area>
+        <LCoordinate>40.905812</LCoordinate>
+        <WCoordinate>44.792663</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>СЛАВЯНСКИЙ</area>
+        <LCoordinate>37.953268</LCoordinate>
+        <WCoordinate>45.430022</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>БРЮХОВЕЦКИЙ</area>
+        <LCoordinate>39.029489</LCoordinate>
+        <WCoordinate>45.836349</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>39.008052</LCoordinate>
+        <WCoordinate>45.044244</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КРЫМСКИЙ</area>
+        <LCoordinate>37.998662</LCoordinate>
+        <WCoordinate>44.922941</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>38.976638</LCoordinate>
+        <WCoordinate>45.022719</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>39.126981</LCoordinate>
+        <WCoordinate>45.009773</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>УСТЬ-ЛАБИНСКИЙ</area>
+        <LCoordinate>39.885296</LCoordinate>
+        <WCoordinate>45.237479</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ТИМАШЕВСКИЙ</area>
+        <LCoordinate>38.940386</LCoordinate>
+        <WCoordinate>45.617414</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>39.155499</LCoordinate>
+        <WCoordinate>45.05907</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.902923</LCoordinate>
+        <WCoordinate>43.459009</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.755595</LCoordinate>
+        <WCoordinate>43.569742</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ТУАПСИНСКИЙ</area>
+        <LCoordinate>39.291433</LCoordinate>
+        <WCoordinate>44.313992</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ВЫСЕЛКОВСКИЙ</area>
+        <LCoordinate>39.640657</LCoordinate>
+        <WCoordinate>45.573625</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ГЕЛЕНДЖИК (РАЙОН)</area>
+        <LCoordinate>38.042457</LCoordinate>
+        <WCoordinate>44.597374</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>38.903747</LCoordinate>
+        <WCoordinate>45.08871</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУРОРТ АНАПА</area>
+        <LCoordinate>37.391367</LCoordinate>
+        <WCoordinate>44.898178</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>39.031377</LCoordinate>
+        <WCoordinate>45.08849</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>39.026356</LCoordinate>
+        <WCoordinate>45.047148</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КАЛИНИНСКИЙ</area>
+        <LCoordinate>38.652842</LCoordinate>
+        <WCoordinate>45.4882</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.804883</LCoordinate>
+        <WCoordinate>43.584836</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.НОВОРОССИЙСК</area>
+        <LCoordinate>37.7178</LCoordinate>
+        <WCoordinate>44.7458</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>38.999577</LCoordinate>
+        <WCoordinate>45.144243</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ДИНСКОЙ</area>
+        <LCoordinate>39.010262</LCoordinate>
+        <WCoordinate>45.237426</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.9702</LCoordinate>
+        <WCoordinate>43.4022</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.НОВОРОССИЙСК</area>
+        <LCoordinate>37.707238</LCoordinate>
+        <WCoordinate>44.743502</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУРГАНИНСКИЙ</area>
+        <LCoordinate>40.928857</LCoordinate>
+        <WCoordinate>44.821375</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.731627</LCoordinate>
+        <WCoordinate>43.595125</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.715941</LCoordinate>
+        <WCoordinate>43.623091</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ДИНСКОЙ</area>
+        <LCoordinate>38.961693</LCoordinate>
+        <WCoordinate>45.238333</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>ГУЛЬКЕВИЧЕСКИЙ</area>
+        <LCoordinate>40.995698</LCoordinate>
+        <WCoordinate>45.291977</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КОРЕНОВСКИЙ</area>
+        <LCoordinate>39.396329</LCoordinate>
+        <WCoordinate>45.402186</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.КРАСНОДАР</area>
+        <LCoordinate>39.131327</LCoordinate>
+        <WCoordinate>45.09558</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>КУЩЕВСКИЙ</area>
+        <LCoordinate>39.42697</LCoordinate>
+        <WCoordinate>46.570943</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>40.2676</LCoordinate>
+        <WCoordinate>43.6835</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>39.899908</LCoordinate>
+        <WCoordinate>43.469343</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Краснодарский край</region>
+        <area>Г.СОЧИ</area>
+        <LCoordinate>40.0131</LCoordinate>
+        <WCoordinate>43.5865</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Искитимский район</area>
+        <LCoordinate>83.295722</LCoordinate>
+        <WCoordinate>54.630996</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Первомайский район</area>
+        <LCoordinate>83.068818</LCoordinate>
+        <WCoordinate>54.94591</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>82.805253</LCoordinate>
+        <WCoordinate>55.015063</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>82.800307</LCoordinate>
+        <WCoordinate>55.029935</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Советский район</area>
+        <LCoordinate>83.097517</LCoordinate>
+        <WCoordinate>54.870995</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>82.871</LCoordinate>
+        <WCoordinate>54.997977</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Калининский район</area>
+        <LCoordinate>82.935501</LCoordinate>
+        <WCoordinate>55.062979</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>г.Обь</area>
+        <LCoordinate>82.690701</LCoordinate>
+        <WCoordinate>54.990616</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Кировский район</area>
+        <LCoordinate>82.909656</LCoordinate>
+        <WCoordinate>54.941405</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Чулымский район</area>
+        <LCoordinate>80.97456</LCoordinate>
+        <WCoordinate>55.091177</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Барабинский район</area>
+        <LCoordinate>78.355629</LCoordinate>
+        <WCoordinate>55.358746</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Кировский район</area>
+        <LCoordinate>82.91796</LCoordinate>
+        <WCoordinate>54.939858</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Калининский район</area>
+        <LCoordinate>82.929933</LCoordinate>
+        <WCoordinate>55.119662</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Краснозерский район</area>
+        <LCoordinate>79.232004</LCoordinate>
+        <WCoordinate>53.990123</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>82.905128</LCoordinate>
+        <WCoordinate>54.988394</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Кировский район</area>
+        <LCoordinate>82.932959</LCoordinate>
+        <WCoordinate>54.964589</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Кировский район</area>
+        <LCoordinate>82.947711</LCoordinate>
+        <WCoordinate>54.939119</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Тогучинский район</area>
+        <LCoordinate>84.400256</LCoordinate>
+        <WCoordinate>55.227861</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Здвинский район</area>
+        <LCoordinate>78.664234</LCoordinate>
+        <WCoordinate>54.707169</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>82.839221</LCoordinate>
+        <WCoordinate>54.993065</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Дзержинский район</area>
+        <LCoordinate>82.962034</LCoordinate>
+        <WCoordinate>55.041389</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Центральный район</area>
+        <LCoordinate>82.927465</LCoordinate>
+        <WCoordinate>55.02464</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Первомайский район</area>
+        <LCoordinate>83.075995</LCoordinate>
+        <WCoordinate>54.966621</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>г.Обь</area>
+        <LCoordinate>82.649417</LCoordinate>
+        <WCoordinate>54.998611</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Тогучинский район</area>
+        <LCoordinate>84.78865</LCoordinate>
+        <WCoordinate>55.056343</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Первомайский район</area>
+        <LCoordinate>83.119748</LCoordinate>
+        <WCoordinate>54.941738</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>82.8497</LCoordinate>
+        <WCoordinate>54.9969</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Советский район</area>
+        <LCoordinate>83.068979</LCoordinate>
+        <WCoordinate>54.859702</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Искитимский район</area>
+        <LCoordinate>83.332565</LCoordinate>
+        <WCoordinate>54.59033</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>82.786746</LCoordinate>
+        <WCoordinate>54.975108</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Кировский район</area>
+        <LCoordinate>82.842643</LCoordinate>
+        <WCoordinate>54.945645</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Новосибирский район</area>
+        <LCoordinate>82.742929</LCoordinate>
+        <WCoordinate>54.985008</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>82.853587</LCoordinate>
+        <WCoordinate>54.997041</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Калининский район</area>
+        <LCoordinate>82.981142</LCoordinate>
+        <WCoordinate>55.100177</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Калининский район</area>
+        <LCoordinate>82.942657</LCoordinate>
+        <WCoordinate>55.110414</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>п.Кольцово</area>
+        <LCoordinate>83.188316</LCoordinate>
+        <WCoordinate>54.939877</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Октябрьский район</area>
+        <LCoordinate>82.9347</LCoordinate>
+        <WCoordinate>55.0075</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Советский район</area>
+        <LCoordinate>83.106766</LCoordinate>
+        <WCoordinate>54.849932</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>г. Бердск</area>
+        <LCoordinate>83.11007</LCoordinate>
+        <WCoordinate>54.76475</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Железнодорожный район</area>
+        <LCoordinate>82.904152</LCoordinate>
+        <WCoordinate>55.027081</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Октябрьский район</area>
+        <LCoordinate>83.002675</LCoordinate>
+        <WCoordinate>55.032572</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Кировский район</area>
+        <LCoordinate>82.899163</LCoordinate>
+        <WCoordinate>54.948103</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Центральный район</area>
+        <LCoordinate>82.921693</LCoordinate>
+        <WCoordinate>55.02475</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Заельцовский район</area>
+        <LCoordinate>82.930115</LCoordinate>
+        <WCoordinate>55.083772</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Калининский район</area>
+        <LCoordinate>82.962527</LCoordinate>
+        <WCoordinate>55.104682</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Искитимский район</area>
+        <LCoordinate>83.378012</LCoordinate>
+        <WCoordinate>54.457591</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Кировский район</area>
+        <LCoordinate>82.909473</LCoordinate>
+        <WCoordinate>54.940351</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Октябрьский район</area>
+        <LCoordinate>82.945544</LCoordinate>
+        <WCoordinate>55.026497</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Тогучинский район</area>
+        <LCoordinate>83.847731</LCoordinate>
+        <WCoordinate>55.002401</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Октябрьский район</area>
+        <LCoordinate>82.971647</LCoordinate>
+        <WCoordinate>55.021442</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Новосибирская область</region>
+        <area>Центральный район</area>
+        <LCoordinate>82.917166</LCoordinate>
+        <WCoordinate>55.043147</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Московский район</area>
+        <LCoordinate>43.923758</LCoordinate>
+        <WCoordinate>56.334074</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Городецкий район</area>
+        <LCoordinate>43.388336</LCoordinate>
+        <WCoordinate>56.63859</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Борский район</area>
+        <LCoordinate>44.020811</LCoordinate>
+        <WCoordinate>56.484108</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Борский район</area>
+        <LCoordinate>44.089165</LCoordinate>
+        <WCoordinate>56.35945</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Московский район</area>
+        <LCoordinate>43.881326</LCoordinate>
+        <WCoordinate>56.323795</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.875822</LCoordinate>
+        <WCoordinate>56.231252</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кстовский район</area>
+        <LCoordinate>44.228404</LCoordinate>
+        <WCoordinate>56.140971</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Московский район</area>
+        <LCoordinate>43.906925</LCoordinate>
+        <WCoordinate>56.328096</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кстовский район</area>
+        <LCoordinate>44.10543</LCoordinate>
+        <WCoordinate>56.215946</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Сормовский район</area>
+        <LCoordinate>43.865683</LCoordinate>
+        <WCoordinate>56.355253</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Сергачский район</area>
+        <LCoordinate>45.47694</LCoordinate>
+        <WCoordinate>55.525212</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Сормовский район</area>
+        <LCoordinate>43.817618</LCoordinate>
+        <WCoordinate>56.341282</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Советский район</area>
+        <LCoordinate>43.984323</LCoordinate>
+        <WCoordinate>56.303539</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Уренский район</area>
+        <LCoordinate>45.808997</LCoordinate>
+        <WCoordinate>57.46642</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кр.Баковский район</area>
+        <LCoordinate>45.375209</LCoordinate>
+        <WCoordinate>57.179855</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кстовский район</area>
+        <LCoordinate>44.127789</LCoordinate>
+        <WCoordinate>56.193693</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Городецкий район</area>
+        <LCoordinate>43.450177</LCoordinate>
+        <WCoordinate>56.670471</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Выксунский район</area>
+        <LCoordinate>42.161542</LCoordinate>
+        <WCoordinate>55.329043</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>г. Дзержинск</area>
+        <LCoordinate>43.437581</LCoordinate>
+        <WCoordinate>56.246921</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>43.948864</LCoordinate>
+        <WCoordinate>56.249544</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.836533</LCoordinate>
+        <WCoordinate>56.23282</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Советский район</area>
+        <LCoordinate>44.033836</LCoordinate>
+        <WCoordinate>56.296295</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>43.929037</LCoordinate>
+        <WCoordinate>56.269697</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Арзамасский район</area>
+        <LCoordinate>43.760004</LCoordinate>
+        <WCoordinate>55.427722</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Лукояновский район</area>
+        <LCoordinate>44.481218</LCoordinate>
+        <WCoordinate>55.031201</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>г. Дзержинск</area>
+        <LCoordinate>43.596733</LCoordinate>
+        <WCoordinate>56.255522</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>г. Дзержинск</area>
+        <LCoordinate>43.449501</LCoordinate>
+        <WCoordinate>56.237692</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Канавинский район</area>
+        <LCoordinate>43.94307</LCoordinate>
+        <WCoordinate>56.326002</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>43.942695</LCoordinate>
+        <WCoordinate>56.25287</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кр.Баковский район</area>
+        <LCoordinate>45.192904</LCoordinate>
+        <WCoordinate>57.110241</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кстовский район</area>
+        <LCoordinate>44.0991</LCoordinate>
+        <WCoordinate>56.237328</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Нижегородский район</area>
+        <LCoordinate>44.077234</LCoordinate>
+        <WCoordinate>56.296021</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Борский район</area>
+        <LCoordinate>44.130642</LCoordinate>
+        <WCoordinate>56.662984</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Приокский район</area>
+        <LCoordinate>44.007733</LCoordinate>
+        <WCoordinate>56.237596</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>г. Дзержинск</area>
+        <LCoordinate>43.457193</LCoordinate>
+        <WCoordinate>56.233619</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Княгининский район</area>
+        <LCoordinate>45.035051</LCoordinate>
+        <WCoordinate>55.8271</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>г. Дзержинск</area>
+        <LCoordinate>43.481226</LCoordinate>
+        <WCoordinate>56.239433</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Канавинский район</area>
+        <LCoordinate>43.80161</LCoordinate>
+        <WCoordinate>56.310919</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Советский район</area>
+        <LCoordinate>44.032431</LCoordinate>
+        <WCoordinate>56.310901</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Городецкий район</area>
+        <LCoordinate>43.48026</LCoordinate>
+        <WCoordinate>56.672936</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Городецкий район</area>
+        <LCoordinate>43.470497</LCoordinate>
+        <WCoordinate>56.67824</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Городецкий район</area>
+        <LCoordinate>43.40871</LCoordinate>
+        <WCoordinate>56.630671</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кстовский район</area>
+        <LCoordinate>43.915958</LCoordinate>
+        <WCoordinate>56.163858</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>г. Дзержинск</area>
+        <LCoordinate>43.421853</LCoordinate>
+        <WCoordinate>56.252542</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>г. Арзамас</area>
+        <LCoordinate>43.834312</LCoordinate>
+        <WCoordinate>55.401993</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Борский район</area>
+        <LCoordinate>44.176841</LCoordinate>
+        <WCoordinate>56.345813</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кулебакский район</area>
+        <LCoordinate>42.522465</LCoordinate>
+        <WCoordinate>55.422414</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>г. Дзержинск</area>
+        <LCoordinate>43.456936</LCoordinate>
+        <WCoordinate>56.249073</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Московский район</area>
+        <LCoordinate>43.860769</LCoordinate>
+        <WCoordinate>56.332099</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кстовский район</area>
+        <LCoordinate>44.024609</LCoordinate>
+        <WCoordinate>56.21288</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Приокский район</area>
+        <LCoordinate>43.973701</LCoordinate>
+        <WCoordinate>56.261648</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кстовский район</area>
+        <LCoordinate>44.143775</LCoordinate>
+        <WCoordinate>56.18518</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Канавинский район</area>
+        <LCoordinate>43.925078</LCoordinate>
+        <WCoordinate>56.345194</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Борский район</area>
+        <LCoordinate>44.129205</LCoordinate>
+        <WCoordinate>56.334948</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Борский район</area>
+        <LCoordinate>44.007647</LCoordinate>
+        <WCoordinate>56.394073</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Сормовский район</area>
+        <LCoordinate>43.807983</LCoordinate>
+        <WCoordinate>56.36758</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Канавинский район</area>
+        <LCoordinate>43.93688</LCoordinate>
+        <WCoordinate>56.303242</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.847508</LCoordinate>
+        <WCoordinate>56.243141</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.854847</LCoordinate>
+        <WCoordinate>56.242444</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>г. Дзержинск</area>
+        <LCoordinate>43.433837</LCoordinate>
+        <WCoordinate>56.231973</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>43.953059</LCoordinate>
+        <WCoordinate>56.288417</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.880929</LCoordinate>
+        <WCoordinate>56.26841</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Нижегородский район</area>
+        <LCoordinate>44.078071</LCoordinate>
+        <WCoordinate>56.305878</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Советский район</area>
+        <LCoordinate>44.003763</LCoordinate>
+        <WCoordinate>56.311895</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.838904</LCoordinate>
+        <WCoordinate>56.247511</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Сормовский район</area>
+        <LCoordinate>43.808681</LCoordinate>
+        <WCoordinate>56.358083</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Выксунский район</area>
+        <LCoordinate>42.124382</LCoordinate>
+        <WCoordinate>55.341117</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Богородский район</area>
+        <LCoordinate>43.856059</LCoordinate>
+        <WCoordinate>56.191854</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Сормовский район</area>
+        <LCoordinate>43.760122</LCoordinate>
+        <WCoordinate>56.389245</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>г. Арзамас</area>
+        <LCoordinate>43.838271</LCoordinate>
+        <WCoordinate>55.395583</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>43.935045</LCoordinate>
+        <WCoordinate>56.29477</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>43.888139</LCoordinate>
+        <WCoordinate>56.288215</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.856521</LCoordinate>
+        <WCoordinate>56.224137</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кстовский район</area>
+        <LCoordinate>44.087791</LCoordinate>
+        <WCoordinate>56.274124</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>43.941611</LCoordinate>
+        <WCoordinate>56.303617</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Сормовский район</area>
+        <LCoordinate>43.850899</LCoordinate>
+        <WCoordinate>56.358106</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.855855</LCoordinate>
+        <WCoordinate>56.233053</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Балахнинский район</area>
+        <LCoordinate>43.471184</LCoordinate>
+        <WCoordinate>56.583089</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Выксунский район</area>
+        <LCoordinate>42.210631</LCoordinate>
+        <WCoordinate>55.318755</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Канавинский район</area>
+        <LCoordinate>43.945205</LCoordinate>
+        <WCoordinate>56.320267</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.858967</LCoordinate>
+        <WCoordinate>56.255551</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Советский район</area>
+        <LCoordinate>44.017764</LCoordinate>
+        <WCoordinate>56.312847</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Городецкий район</area>
+        <LCoordinate>43.486065</LCoordinate>
+        <WCoordinate>56.639899</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>43.928812</LCoordinate>
+        <WCoordinate>56.256308</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Б.Мурашкинский район</area>
+        <LCoordinate>44.696159</LCoordinate>
+        <WCoordinate>55.913716</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Семеновский район</area>
+        <LCoordinate>44.62419</LCoordinate>
+        <WCoordinate>56.834748</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Городецкий район</area>
+        <LCoordinate>43.498521</LCoordinate>
+        <WCoordinate>56.661227</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Д.Константиновский район</area>
+        <LCoordinate>43.969388</LCoordinate>
+        <WCoordinate>55.991469</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Сокольский район</area>
+        <LCoordinate>43.231459</LCoordinate>
+        <WCoordinate>57.194924</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.871691</LCoordinate>
+        <WCoordinate>56.234508</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Борский район</area>
+        <LCoordinate>44.0098</LCoordinate>
+        <WCoordinate>56.393344</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Нижегородский район</area>
+        <LCoordinate>44.025639</LCoordinate>
+        <WCoordinate>56.327198</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Канавинский район</area>
+        <LCoordinate>43.93011</LCoordinate>
+        <WCoordinate>56.305837</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>г. Дзержинск</area>
+        <LCoordinate>43.51293</LCoordinate>
+        <WCoordinate>56.230834</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Володарский район</area>
+        <LCoordinate>43.101511</LCoordinate>
+        <WCoordinate>56.213578</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Арзамасский район</area>
+        <LCoordinate>43.613663</LCoordinate>
+        <WCoordinate>55.359307</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Арзамасский район</area>
+        <LCoordinate>43.916516</LCoordinate>
+        <WCoordinate>55.396369</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Воротынский район</area>
+        <LCoordinate>46.070566</LCoordinate>
+        <WCoordinate>56.001597</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Сормовский район</area>
+        <LCoordinate>43.857508</LCoordinate>
+        <WCoordinate>56.348928</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Богородский район</area>
+        <LCoordinate>43.831501</LCoordinate>
+        <WCoordinate>56.190971</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кстовский район</area>
+        <LCoordinate>44.059403</LCoordinate>
+        <WCoordinate>56.224345</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Лысковский район</area>
+        <LCoordinate>44.862156</LCoordinate>
+        <WCoordinate>56.011338</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>г. Дзержинск</area>
+        <LCoordinate>43.475947</LCoordinate>
+        <WCoordinate>56.29018</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>43.928329</LCoordinate>
+        <WCoordinate>56.285529</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Нижегородский район</area>
+        <LCoordinate>44.028311</LCoordinate>
+        <WCoordinate>56.32815</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Богородский район</area>
+        <LCoordinate>43.511803</LCoordinate>
+        <WCoordinate>56.087925</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Городецкий район</area>
+        <LCoordinate>43.47687</LCoordinate>
+        <WCoordinate>56.633846</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Канавинский район</area>
+        <LCoordinate>43.934788</LCoordinate>
+        <WCoordinate>56.334948</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>43.910379</LCoordinate>
+        <WCoordinate>56.270978</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.887548</LCoordinate>
+        <WCoordinate>56.274648</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Нижегородский район</area>
+        <LCoordinate>44.081494</LCoordinate>
+        <WCoordinate>56.298301</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.842938</LCoordinate>
+        <WCoordinate>56.218816</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>43.909435</LCoordinate>
+        <WCoordinate>56.263275</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.790367</LCoordinate>
+        <WCoordinate>56.250903</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>г. Дзержинск</area>
+        <LCoordinate>43.561563</LCoordinate>
+        <WCoordinate>56.328305</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Московский район</area>
+        <LCoordinate>43.910165</LCoordinate>
+        <WCoordinate>56.322237</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Воротынский район</area>
+        <LCoordinate>45.975852</LCoordinate>
+        <WCoordinate>56.022217</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кстовский район</area>
+        <LCoordinate>44.041314</LCoordinate>
+        <WCoordinate>56.250503</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Советский район</area>
+        <LCoordinate>43.976512</LCoordinate>
+        <WCoordinate>56.311443</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Сергачский район</area>
+        <LCoordinate>45.325019</LCoordinate>
+        <WCoordinate>55.60313</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Городецкий район</area>
+        <LCoordinate>43.396747</LCoordinate>
+        <WCoordinate>56.639239</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Сормовский район</area>
+        <LCoordinate>43.843635</LCoordinate>
+        <WCoordinate>56.349558</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>г. Дзержинск</area>
+        <LCoordinate>43.434094</LCoordinate>
+        <WCoordinate>56.232045</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.857647</LCoordinate>
+        <WCoordinate>56.245496</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кстовский район</area>
+        <LCoordinate>44.425449</LCoordinate>
+        <WCoordinate>56.045774</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Воскресенский район</area>
+        <LCoordinate>45.436492</LCoordinate>
+        <WCoordinate>56.831895</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Б.Мурашкинский район</area>
+        <LCoordinate>44.798126</LCoordinate>
+        <WCoordinate>55.790618</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Нижегородский район</area>
+        <LCoordinate>43.991425</LCoordinate>
+        <WCoordinate>56.309324</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кулебакский район</area>
+        <LCoordinate>42.560552</LCoordinate>
+        <WCoordinate>55.399751</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Канавинский район</area>
+        <LCoordinate>43.951761</LCoordinate>
+        <WCoordinate>56.321195</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кр.Баковский район</area>
+        <LCoordinate>45.490587</LCoordinate>
+        <WCoordinate>57.224917</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Советский район</area>
+        <LCoordinate>44.013956</LCoordinate>
+        <WCoordinate>56.313585</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Сормовский район</area>
+        <LCoordinate>43.856725</LCoordinate>
+        <WCoordinate>56.352578</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Советский район</area>
+        <LCoordinate>44.046013</LCoordinate>
+        <WCoordinate>56.296729</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>43.932309</LCoordinate>
+        <WCoordinate>56.258525</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Балахнинский район</area>
+        <LCoordinate>43.602269</LCoordinate>
+        <WCoordinate>56.488776</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>43.919842</LCoordinate>
+        <WCoordinate>56.302569</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Выксунский район</area>
+        <LCoordinate>42.181095</LCoordinate>
+        <WCoordinate>55.317113</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Московский район</area>
+        <LCoordinate>43.881497</LCoordinate>
+        <WCoordinate>56.3354</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.86358</LCoordinate>
+        <WCoordinate>56.261427</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.873558</LCoordinate>
+        <WCoordinate>56.265545</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Уренский район</area>
+        <LCoordinate>45.706429</LCoordinate>
+        <WCoordinate>57.325629</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Балахнинский район</area>
+        <LCoordinate>43.535149</LCoordinate>
+        <WCoordinate>56.538855</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Богородский район</area>
+        <LCoordinate>43.842037</LCoordinate>
+        <WCoordinate>56.196021</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Первомайский район</area>
+        <LCoordinate>43.787266</LCoordinate>
+        <WCoordinate>54.863438</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Выксунский район</area>
+        <LCoordinate>41.887586</LCoordinate>
+        <WCoordinate>55.172606</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кр.Баковский район</area>
+        <LCoordinate>45.605321</LCoordinate>
+        <WCoordinate>57.251729</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Сормовский район</area>
+        <LCoordinate>43.873011</LCoordinate>
+        <WCoordinate>56.34479</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Балахнинский район</area>
+        <LCoordinate>43.608663</LCoordinate>
+        <WCoordinate>56.494995</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Кулебакский район</area>
+        <LCoordinate>42.522905</LCoordinate>
+        <WCoordinate>55.422061</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Семеновский район</area>
+        <LCoordinate>44.83116</LCoordinate>
+        <WCoordinate>56.860346</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Ленинский район</area>
+        <LCoordinate>43.910594</LCoordinate>
+        <WCoordinate>56.271002</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Сормовский район</area>
+        <LCoordinate>43.757826</LCoordinate>
+        <WCoordinate>56.381298</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.827724</LCoordinate>
+        <WCoordinate>56.219878</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Автозаводский район</area>
+        <LCoordinate>43.870211</LCoordinate>
+        <WCoordinate>56.235736</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Богородский район</area>
+        <LCoordinate>43.534387</LCoordinate>
+        <WCoordinate>56.09096</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Лысковский район</area>
+        <LCoordinate>45.057292</LCoordinate>
+        <WCoordinate>56.037114</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Советский район</area>
+        <LCoordinate>44.0439</LCoordinate>
+        <WCoordinate>56.292371</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, Нижегородская область</region>
+        <area>Приокский район</area>
+        <LCoordinate>43.993142</LCoordinate>
+        <WCoordinate>56.25694</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Перово</area>
+        <LCoordinate>37.779622</LCoordinate>
+        <WCoordinate>55.759432</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Лефортово</area>
+        <LCoordinate>37.714638</LCoordinate>
+        <WCoordinate>55.761781</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Коптево</area>
+        <LCoordinate>37.540498</LCoordinate>
+        <WCoordinate>55.844241</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Даниловский</area>
+        <LCoordinate>37.624708</LCoordinate>
+        <WCoordinate>55.7097</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Войковский</area>
+        <LCoordinate>37.510382</LCoordinate>
+        <WCoordinate>55.820875</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Богородское</area>
+        <LCoordinate>37.707245</LCoordinate>
+        <WCoordinate>55.804778</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Филевский парк</area>
+        <LCoordinate>37.485427</LCoordinate>
+        <WCoordinate>55.744573</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Хорошево-Мневники</area>
+        <LCoordinate>37.496831</LCoordinate>
+        <WCoordinate>55.776006</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Куркино</area>
+        <LCoordinate>37.385756</LCoordinate>
+        <WCoordinate>55.886384</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Люблино</area>
+        <LCoordinate>37.761877</LCoordinate>
+        <WCoordinate>55.668291</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Северное Измайлово</area>
+        <LCoordinate>37.798784</LCoordinate>
+        <WCoordinate>55.806569</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Марьино</area>
+        <LCoordinate>37.72498</LCoordinate>
+        <WCoordinate>55.646399</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Савёлки</area>
+        <LCoordinate>37.227291</LCoordinate>
+        <WCoordinate>55.992945</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Коньково</area>
+        <LCoordinate>37.5264</LCoordinate>
+        <WCoordinate>55.642567</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ломоносовский</area>
+        <LCoordinate>37.543244</LCoordinate>
+        <WCoordinate>55.67289</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Коптево</area>
+        <LCoordinate>37.532859</LCoordinate>
+        <WCoordinate>55.838808</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Преображенское</area>
+        <LCoordinate>37.729282</LCoordinate>
+        <WCoordinate>55.809451</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Аэропорт</area>
+        <LCoordinate>37.533674</LCoordinate>
+        <WCoordinate>55.806581</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ярославский</area>
+        <LCoordinate>37.721182</LCoordinate>
+        <WCoordinate>55.879452</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Кузьминки</area>
+        <LCoordinate>37.745043</LCoordinate>
+        <WCoordinate>55.700064</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Текстильщики</area>
+        <LCoordinate>37.729411</LCoordinate>
+        <WCoordinate>55.70947</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Пресненский</area>
+        <LCoordinate>37.535037</LCoordinate>
+        <WCoordinate>55.76105</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Теплый Стан</area>
+        <LCoordinate>37.47723</LCoordinate>
+        <WCoordinate>55.646672</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Алексеевский</area>
+        <LCoordinate>37.650619</LCoordinate>
+        <WCoordinate>55.825786</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ново-Переделкино</area>
+        <LCoordinate>37.345673</LCoordinate>
+        <WCoordinate>55.642361</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Северное Медведково</area>
+        <LCoordinate>37.681968</LCoordinate>
+        <WCoordinate>55.895204</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Савеловский</area>
+        <LCoordinate>37.584196</LCoordinate>
+        <WCoordinate>55.795678</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Преображенское</area>
+        <LCoordinate>37.737297</LCoordinate>
+        <WCoordinate>55.799882</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Братеево</area>
+        <LCoordinate>37.773818</LCoordinate>
+        <WCoordinate>55.61917</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Чертаново Северное</area>
+        <LCoordinate>37.620074</LCoordinate>
+        <WCoordinate>55.63229</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Тропарево-Никулино</area>
+        <LCoordinate>37.488409</LCoordinate>
+        <WCoordinate>55.667541</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Пресненский</area>
+        <LCoordinate>37.538888</LCoordinate>
+        <WCoordinate>55.74624</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>ГУ МВД 2 СП ДПС 2 бат.</area>
+        <LCoordinate>37.030663</LCoordinate>
+        <WCoordinate>55.706611</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Хорошево-Мневники</area>
+        <LCoordinate>37.457993</LCoordinate>
+        <WCoordinate>55.778498</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Очаково-Матвеевское</area>
+        <LCoordinate>37.458594</LCoordinate>
+        <WCoordinate>55.70562</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Алексеевский</area>
+        <LCoordinate>37.644353</LCoordinate>
+        <WCoordinate>55.823551</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Северное Бутово</area>
+        <LCoordinate>37.579368</LCoordinate>
+        <WCoordinate>55.564606</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Митино</area>
+        <LCoordinate>37.357335</LCoordinate>
+        <WCoordinate>55.835199</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Выхино-Жулебино</area>
+        <LCoordinate>37.831507</LCoordinate>
+        <WCoordinate>55.700868</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Бирюлево Восточное</area>
+        <LCoordinate>37.665617</LCoordinate>
+        <WCoordinate>55.608445</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Солнцево</area>
+        <LCoordinate>37.408662</LCoordinate>
+        <WCoordinate>55.648645</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Таганский</area>
+        <LCoordinate>37.668643</LCoordinate>
+        <WCoordinate>55.747224</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Савеловский</area>
+        <LCoordinate>37.576311</LCoordinate>
+        <WCoordinate>55.806545</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Войковский</area>
+        <LCoordinate>37.481672</LCoordinate>
+        <WCoordinate>55.838428</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Тимирязевский</area>
+        <LCoordinate>37.562503</LCoordinate>
+        <WCoordinate>55.823297</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ростокино</area>
+        <LCoordinate>37.636006</LCoordinate>
+        <WCoordinate>55.844464</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Тимирязевский</area>
+        <LCoordinate>37.570056</LCoordinate>
+        <WCoordinate>55.815028</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Текстильщики</area>
+        <LCoordinate>37.749506</LCoordinate>
+        <WCoordinate>55.701515</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Марьина роща</area>
+        <LCoordinate>37.61575</LCoordinate>
+        <WCoordinate>55.798435</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Левобережный</area>
+        <LCoordinate>37.493248</LCoordinate>
+        <WCoordinate>55.855275</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Кузьминки</area>
+        <LCoordinate>37.752017</LCoordinate>
+        <WCoordinate>55.699235</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Некрасовка</area>
+        <LCoordinate>37.928259</LCoordinate>
+        <WCoordinate>55.686772</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Сокол</area>
+        <LCoordinate>37.503687</LCoordinate>
+        <WCoordinate>55.799707</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Гольяново</area>
+        <LCoordinate>37.822484</LCoordinate>
+        <WCoordinate>55.823551</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Косино-Ухтомский</area>
+        <LCoordinate>37.889432</LCoordinate>
+        <WCoordinate>55.70539</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Новофёдоровское поселение</area>
+        <LCoordinate>36.888356</LCoordinate>
+        <WCoordinate>55.446031</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Савёлки</area>
+        <LCoordinate>37.230209</LCoordinate>
+        <WCoordinate>55.994589</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Хорошево-Мневники</area>
+        <LCoordinate>37.476683</LCoordinate>
+        <WCoordinate>55.769193</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Марьина роща</area>
+        <LCoordinate>37.612113</LCoordinate>
+        <WCoordinate>55.807377</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Отрадное</area>
+        <LCoordinate>37.59441</LCoordinate>
+        <WCoordinate>55.865944</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Кузьминки</area>
+        <LCoordinate>37.749195</LCoordinate>
+        <WCoordinate>55.705789</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Покровское-Стрешнево</area>
+        <LCoordinate>37.431353</LCoordinate>
+        <WCoordinate>55.825268</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Царицыно</area>
+        <LCoordinate>37.665843</LCoordinate>
+        <WCoordinate>55.625743</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Бирюлево Восточное</area>
+        <LCoordinate>37.669845</LCoordinate>
+        <WCoordinate>55.571843</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Орехово-Борисово Северное</area>
+        <LCoordinate>37.720935</LCoordinate>
+        <WCoordinate>55.613468</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Перово</area>
+        <LCoordinate>37.767563</LCoordinate>
+        <WCoordinate>55.737887</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Орехово-Борисово Северное</area>
+        <LCoordinate>37.702181</LCoordinate>
+        <WCoordinate>55.622817</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Савеловский</area>
+        <LCoordinate>37.566386</LCoordinate>
+        <WCoordinate>55.799924</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Северное Тушино</area>
+        <LCoordinate>37.411172</LCoordinate>
+        <WCoordinate>55.850554</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Московский</area>
+        <LCoordinate>37.326307</LCoordinate>
+        <WCoordinate>55.601675</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Фили-Давыдково</area>
+        <LCoordinate>37.46281</LCoordinate>
+        <WCoordinate>55.730258</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ясенево</area>
+        <LCoordinate>37.50226</LCoordinate>
+        <WCoordinate>55.602063</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Москворечье-Сабурово</area>
+        <LCoordinate>37.691442</LCoordinate>
+        <WCoordinate>55.637916</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Новогиреево</area>
+        <LCoordinate>37.818063</LCoordinate>
+        <WCoordinate>55.754476</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Даниловский</area>
+        <LCoordinate>37.658343</LCoordinate>
+        <WCoordinate>55.726282</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Метрогородок</area>
+        <LCoordinate>37.753594</LCoordinate>
+        <WCoordinate>55.868425</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Останкинский</area>
+        <LCoordinate>37.618593</LCoordinate>
+        <WCoordinate>55.830427</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Свиблово</area>
+        <LCoordinate>37.635684</LCoordinate>
+        <WCoordinate>55.84606</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Измайлово</area>
+        <LCoordinate>37.799256</LCoordinate>
+        <WCoordinate>55.794762</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Бабушкинский</area>
+        <LCoordinate>37.662538</LCoordinate>
+        <WCoordinate>55.875552</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Отрадное</area>
+        <LCoordinate>37.606941</LCoordinate>
+        <WCoordinate>55.853173</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Южное Медведково</area>
+        <LCoordinate>37.621758</LCoordinate>
+        <WCoordinate>55.87489</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Марьино</area>
+        <LCoordinate>37.755836</LCoordinate>
+        <WCoordinate>55.645164</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Кунцево</area>
+        <LCoordinate>37.445848</LCoordinate>
+        <WCoordinate>55.730759</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Мещанский</area>
+        <LCoordinate>37.63253</LCoordinate>
+        <WCoordinate>55.778516</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Можайский</area>
+        <LCoordinate>37.336414</LCoordinate>
+        <WCoordinate>55.683996</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Вешняки</area>
+        <LCoordinate>37.829189</LCoordinate>
+        <WCoordinate>55.734915</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Якиманка</area>
+        <LCoordinate>37.60971</LCoordinate>
+        <WCoordinate>55.727503</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Северное Измайлово</area>
+        <LCoordinate>37.839575</LCoordinate>
+        <WCoordinate>55.809481</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Силино</area>
+        <LCoordinate>37.186425</LCoordinate>
+        <WCoordinate>55.991709</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Орехово-Борисово Южное</area>
+        <LCoordinate>37.725334</LCoordinate>
+        <WCoordinate>55.589951</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Северное Бутово</area>
+        <LCoordinate>37.589099</LCoordinate>
+        <WCoordinate>55.560559</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Останкинский</area>
+        <LCoordinate>37.635394</LCoordinate>
+        <WCoordinate>55.799689</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Царицыно</area>
+        <LCoordinate>37.654899</LCoordinate>
+        <WCoordinate>55.627687</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Люблино</area>
+        <LCoordinate>37.739861</LCoordinate>
+        <WCoordinate>55.672309</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Зюзино</area>
+        <LCoordinate>37.608776</LCoordinate>
+        <WCoordinate>55.663898</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Текстильщики</area>
+        <LCoordinate>37.731557</LCoordinate>
+        <WCoordinate>55.704132</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Очаково-Матвеевское</area>
+        <LCoordinate>37.439657</LCoordinate>
+        <WCoordinate>55.664564</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Щукино</area>
+        <LCoordinate>37.485727</LCoordinate>
+        <WCoordinate>55.789007</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Крюково</area>
+        <LCoordinate>37.147951</LCoordinate>
+        <WCoordinate>55.983751</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Выхино-Жулебино</area>
+        <LCoordinate>37.853769</LCoordinate>
+        <WCoordinate>55.683609</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Отрадное</area>
+        <LCoordinate>37.603841</LCoordinate>
+        <WCoordinate>55.862362</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Рязанский</area>
+        <LCoordinate>37.796295</LCoordinate>
+        <WCoordinate>55.713224</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ясенево</area>
+        <LCoordinate>37.523117</LCoordinate>
+        <WCoordinate>55.599584</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Бирюлево Восточное</area>
+        <LCoordinate>37.66977</LCoordinate>
+        <WCoordinate>55.586841</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Крылатское</area>
+        <LCoordinate>37.41217</LCoordinate>
+        <WCoordinate>55.751433</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Северное Медведково</area>
+        <LCoordinate>37.667549</LCoordinate>
+        <WCoordinate>55.895228</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Тверской</area>
+        <LCoordinate>37.588423</LCoordinate>
+        <WCoordinate>55.792253</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Перово</area>
+        <LCoordinate>37.787819</LCoordinate>
+        <WCoordinate>55.74563</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Марушкинское</area>
+        <LCoordinate>37.182637</LCoordinate>
+        <WCoordinate>55.565952</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Северное Медведково</area>
+        <LCoordinate>37.674083</LCoordinate>
+        <WCoordinate>55.891011</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Северное Медведково</area>
+        <LCoordinate>37.632315</LCoordinate>
+        <WCoordinate>55.890427</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Восточное Дегунино</area>
+        <LCoordinate>37.566644</LCoordinate>
+        <WCoordinate>55.881714</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>ГУ МВД 2 СП ДПС 2 бат.</area>
+        <LCoordinate>37.322627</LCoordinate>
+        <WCoordinate>55.80224</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Арбат</area>
+        <LCoordinate>37.603626</LCoordinate>
+        <WCoordinate>55.750593</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Бутырский</area>
+        <LCoordinate>37.587876</LCoordinate>
+        <WCoordinate>55.805767</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Фили-Давыдково</area>
+        <LCoordinate>37.451202</LCoordinate>
+        <WCoordinate>55.724065</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Замоскворечье</area>
+        <LCoordinate>37.643924</LCoordinate>
+        <WCoordinate>55.734384</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Гольяново</area>
+        <LCoordinate>37.831635</LCoordinate>
+        <WCoordinate>55.827528</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Москворечье-Сабурово</area>
+        <LCoordinate>37.699885</LCoordinate>
+        <WCoordinate>55.63467</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Красносельский</area>
+        <LCoordinate>37.679447</LCoordinate>
+        <WCoordinate>55.777587</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Бирюлево Восточное</area>
+        <LCoordinate>37.685401</LCoordinate>
+        <WCoordinate>55.584718</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ясенево</area>
+        <LCoordinate>37.502872</LCoordinate>
+        <WCoordinate>55.601536</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Теплый Стан</area>
+        <LCoordinate>37.480363</LCoordinate>
+        <WCoordinate>55.621308</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Строгино</area>
+        <LCoordinate>37.370896</LCoordinate>
+        <WCoordinate>55.787131</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Бирюлево Западное</area>
+        <LCoordinate>37.645823</LCoordinate>
+        <WCoordinate>55.573019</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Северный</area>
+        <LCoordinate>37.546527</LCoordinate>
+        <WCoordinate>55.919692</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Можайский</area>
+        <LCoordinate>37.391539</LCoordinate>
+        <WCoordinate>55.707663</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Отрадное</area>
+        <LCoordinate>37.600483</LCoordinate>
+        <WCoordinate>55.865565</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Марьина роща</area>
+        <LCoordinate>37.60398</LCoordinate>
+        <WCoordinate>55.788694</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Южное Тушино</area>
+        <LCoordinate>37.403791</LCoordinate>
+        <WCoordinate>55.8425</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ивановское</area>
+        <LCoordinate>37.802238</LCoordinate>
+        <WCoordinate>55.768155</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ховрино</area>
+        <LCoordinate>37.482734</LCoordinate>
+        <WCoordinate>55.880589</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Новогиреево</area>
+        <LCoordinate>37.806734</LCoordinate>
+        <WCoordinate>55.744422</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>ГУ МВД 2 СП ДПС 2 бат.</area>
+        <LCoordinate>37.093395</LCoordinate>
+        <WCoordinate>55.661798</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Раменки</area>
+        <LCoordinate>37.51418</LCoordinate>
+        <WCoordinate>55.705837</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Чертаново Центральное</area>
+        <LCoordinate>37.608175</LCoordinate>
+        <WCoordinate>55.621121</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Таганский</area>
+        <LCoordinate>37.64725</LCoordinate>
+        <WCoordinate>55.738932</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Нагатино-Садовники</area>
+        <LCoordinate>37.63871</LCoordinate>
+        <WCoordinate>55.664261</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Западное Дегунино</area>
+        <LCoordinate>37.501177</LCoordinate>
+        <WCoordinate>55.882039</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Бирюлево Восточное</area>
+        <LCoordinate>37.71203</LCoordinate>
+        <WCoordinate>55.584967</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Молжаниновский</area>
+        <LCoordinate>37.362292</LCoordinate>
+        <WCoordinate>55.942279</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Дорогомилово</area>
+        <LCoordinate>37.564391</LCoordinate>
+        <WCoordinate>55.737114</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Южное Бутово</area>
+        <LCoordinate>37.505125</LCoordinate>
+        <WCoordinate>55.541903</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Филевский парк</area>
+        <LCoordinate>37.49769</LCoordinate>
+        <WCoordinate>55.743709</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Можайский</area>
+        <LCoordinate>37.414219</LCoordinate>
+        <WCoordinate>55.726047</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Лефортово</area>
+        <LCoordinate>37.691034</LCoordinate>
+        <WCoordinate>55.760205</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Тропарево-Никулино</area>
+        <LCoordinate>37.440398</LCoordinate>
+        <WCoordinate>55.655304</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Басманный</area>
+        <LCoordinate>37.686077</LCoordinate>
+        <WCoordinate>55.775945</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Богородское</area>
+        <LCoordinate>37.724787</LCoordinate>
+        <WCoordinate>55.806859</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Нагатино-Садовники</area>
+        <LCoordinate>37.622101</LCoordinate>
+        <WCoordinate>55.690365</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Зюзино</area>
+        <LCoordinate>37.585334</LCoordinate>
+        <WCoordinate>55.661653</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Якиманка</area>
+        <LCoordinate>37.620535</LCoordinate>
+        <WCoordinate>55.729974</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Митино</area>
+        <LCoordinate>37.39068</LCoordinate>
+        <WCoordinate>55.851656</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Южное Бутово</area>
+        <LCoordinate>37.587297</LCoordinate>
+        <WCoordinate>55.555255</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Пресненский</area>
+        <LCoordinate>37.555068</LCoordinate>
+        <WCoordinate>55.758762</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Рязанский</area>
+        <LCoordinate>37.758722</LCoordinate>
+        <WCoordinate>55.726723</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Филевский парк</area>
+        <LCoordinate>37.480288</LCoordinate>
+        <WCoordinate>55.743033</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Северное Медведково</area>
+        <LCoordinate>37.675102</LCoordinate>
+        <WCoordinate>55.883935</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Митино</area>
+        <LCoordinate>37.388202</LCoordinate>
+        <WCoordinate>55.832403</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Северное Медведково</area>
+        <LCoordinate>37.665982</LCoordinate>
+        <WCoordinate>55.887623</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Рязанский</area>
+        <LCoordinate>37.769473</LCoordinate>
+        <WCoordinate>55.722856</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Отрадное</area>
+        <LCoordinate>37.589293</LCoordinate>
+        <WCoordinate>55.848747</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Молжаниновский</area>
+        <LCoordinate>37.398727</LCoordinate>
+        <WCoordinate>55.92901</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Крюково</area>
+        <LCoordinate>37.219877</LCoordinate>
+        <WCoordinate>55.950233</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Савеловский</area>
+        <LCoordinate>37.574658</LCoordinate>
+        <WCoordinate>55.800907</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Нагорный</area>
+        <LCoordinate>37.621822</LCoordinate>
+        <WCoordinate>55.690365</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Тверской</area>
+        <LCoordinate>37.6167</LCoordinate>
+        <WCoordinate>55.748697</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Очаково-Матвеевское</area>
+        <LCoordinate>37.470438</LCoordinate>
+        <WCoordinate>55.691278</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Капотня</area>
+        <LCoordinate>37.810543</LCoordinate>
+        <WCoordinate>55.634755</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Текстильщики</area>
+        <LCoordinate>37.742318</LCoordinate>
+        <WCoordinate>55.716294</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Замоскворечье</area>
+        <LCoordinate>37.624086</LCoordinate>
+        <WCoordinate>55.730759</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Фили-Давыдково</area>
+        <LCoordinate>37.419198</LCoordinate>
+        <WCoordinate>55.746131</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Южнопортовый</area>
+        <LCoordinate>37.693985</LCoordinate>
+        <WCoordinate>55.723044</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Хорошево-Мневники</area>
+        <LCoordinate>37.493463</LCoordinate>
+        <WCoordinate>55.772144</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Можайский</area>
+        <LCoordinate>37.399971</LCoordinate>
+        <WCoordinate>55.70166</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Нагатинский затон</area>
+        <LCoordinate>37.665403</LCoordinate>
+        <WCoordinate>55.683113</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ясенево</area>
+        <LCoordinate>37.497025</LCoordinate>
+        <WCoordinate>55.607057</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Кузьминки</area>
+        <LCoordinate>37.780824</LCoordinate>
+        <WCoordinate>55.703474</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Богородское</area>
+        <LCoordinate>37.714047</LCoordinate>
+        <WCoordinate>55.817119</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Сокольники</area>
+        <LCoordinate>37.668074</LCoordinate>
+        <WCoordinate>55.806768</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Гольяново</area>
+        <LCoordinate>37.816476</LCoordinate>
+        <WCoordinate>55.811495</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Выхино-Жулебино</area>
+        <LCoordinate>37.84833</LCoordinate>
+        <WCoordinate>55.695614</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Вешняки</area>
+        <LCoordinate>37.827355</LCoordinate>
+        <WCoordinate>55.714505</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Строгино</area>
+        <LCoordinate>37.387269</LCoordinate>
+        <WCoordinate>55.805671</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Даниловский</area>
+        <LCoordinate>37.647443</LCoordinate>
+        <WCoordinate>55.717351</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Орехово-Борисово Северное</area>
+        <LCoordinate>37.710979</LCoordinate>
+        <WCoordinate>55.62421</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Черемушки</area>
+        <LCoordinate>37.58543</LCoordinate>
+        <WCoordinate>55.669986</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Таганский</area>
+        <LCoordinate>37.668471</LCoordinate>
+        <WCoordinate>55.733562</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Новогиреево</area>
+        <LCoordinate>37.818997</LCoordinate>
+        <WCoordinate>55.756384</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Чертаново Центральное</area>
+        <LCoordinate>37.58793</LCoordinate>
+        <WCoordinate>55.623368</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Останкинский</area>
+        <LCoordinate>37.640877</LCoordinate>
+        <WCoordinate>55.820947</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Коньково</area>
+        <LCoordinate>37.51918</LCoordinate>
+        <WCoordinate>55.647144</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Богородское</area>
+        <LCoordinate>37.707363</LCoordinate>
+        <WCoordinate>55.804471</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Строгино</area>
+        <LCoordinate>37.396839</LCoordinate>
+        <WCoordinate>55.809415</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Дорогомилово</area>
+        <LCoordinate>37.572405</LCoordinate>
+        <WCoordinate>55.748281</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Покровское-Стрешнево</area>
+        <LCoordinate>37.452307</LCoordinate>
+        <WCoordinate>55.826895</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Перово</area>
+        <LCoordinate>37.757993</LCoordinate>
+        <WCoordinate>55.756885</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Тверской</area>
+        <LCoordinate>37.612756</LCoordinate>
+        <WCoordinate>55.769126</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Рязанский</area>
+        <LCoordinate>37.769043</LCoordinate>
+        <WCoordinate>55.724699</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Люблино</area>
+        <LCoordinate>37.738466</LCoordinate>
+        <WCoordinate>55.680173</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Лосиноостровский</area>
+        <LCoordinate>37.699209</LCoordinate>
+        <WCoordinate>55.894067</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Хамовники</area>
+        <LCoordinate>37.564766</LCoordinate>
+        <WCoordinate>55.72018</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Соколиная гора</area>
+        <LCoordinate>37.732018</LCoordinate>
+        <WCoordinate>55.765571</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Отрадное</area>
+        <LCoordinate>37.620342</LCoordinate>
+        <WCoordinate>55.859285</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Измайлово</area>
+        <LCoordinate>37.799277</LCoordinate>
+        <WCoordinate>55.797017</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Сокольники</area>
+        <LCoordinate>37.659105</LCoordinate>
+        <WCoordinate>55.792657</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Северное Тушино</area>
+        <LCoordinate>37.417867</LCoordinate>
+        <WCoordinate>55.849403</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ивановское</area>
+        <LCoordinate>37.820563</LCoordinate>
+        <WCoordinate>55.771395</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Очаково-Матвеевское</area>
+        <LCoordinate>37.458948</LCoordinate>
+        <WCoordinate>55.708841</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Строгино</area>
+        <LCoordinate>37.398405</LCoordinate>
+        <WCoordinate>55.804477</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ярославский</area>
+        <LCoordinate>37.727222</LCoordinate>
+        <WCoordinate>55.882172</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Новокосино</area>
+        <LCoordinate>37.878242</LCoordinate>
+        <WCoordinate>55.748335</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Марьино</area>
+        <LCoordinate>37.722244</LCoordinate>
+        <WCoordinate>55.652635</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Орехово-Борисово Южное</area>
+        <LCoordinate>37.744668</LCoordinate>
+        <WCoordinate>55.610511</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Донской</area>
+        <LCoordinate>37.620535</LCoordinate>
+        <WCoordinate>55.696926</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Орехово-Борисово Северное</area>
+        <LCoordinate>37.717599</LCoordinate>
+        <WCoordinate>55.610984</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Отрадное</area>
+        <LCoordinate>37.602832</LCoordinate>
+        <WCoordinate>55.861345</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ясенево</area>
+        <LCoordinate>37.507539</LCoordinate>
+        <WCoordinate>55.617867</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Теплый Стан</area>
+        <LCoordinate>37.509352</LCoordinate>
+        <WCoordinate>55.623083</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Южное Медведково</area>
+        <LCoordinate>37.641971</LCoordinate>
+        <WCoordinate>55.871254</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Чертаново Южное</area>
+        <LCoordinate>37.609935</LCoordinate>
+        <WCoordinate>55.575349</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Бирюлево Западное</area>
+        <LCoordinate>37.672688</LCoordinate>
+        <WCoordinate>55.572067</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Академический</area>
+        <LCoordinate>37.576729</LCoordinate>
+        <WCoordinate>55.695233</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ново-Переделкино</area>
+        <LCoordinate>37.349643</LCoordinate>
+        <WCoordinate>55.655582</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Якиманка</area>
+        <LCoordinate>37.623754</LCoordinate>
+        <WCoordinate>55.745606</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Южное Бутово</area>
+        <LCoordinate>37.555196</LCoordinate>
+        <WCoordinate>55.547827</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Северное Измайлово</area>
+        <LCoordinate>37.798891</LCoordinate>
+        <WCoordinate>55.804519</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Перово</area>
+        <LCoordinate>37.787873</LCoordinate>
+        <WCoordinate>55.758557</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Дмитровский</area>
+        <LCoordinate>37.511187</LCoordinate>
+        <WCoordinate>55.898681</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Замоскворечье</area>
+        <LCoordinate>37.624944</LCoordinate>
+        <WCoordinate>55.727467</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ясенево</area>
+        <LCoordinate>37.499964</LCoordinate>
+        <WCoordinate>55.615322</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Роговское поселение</area>
+        <LCoordinate>37.057743</LCoordinate>
+        <WCoordinate>55.244488</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Фили-Давыдково</area>
+        <LCoordinate>37.481575</LCoordinate>
+        <WCoordinate>55.741366</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Гольяново</area>
+        <LCoordinate>37.833481</LCoordinate>
+        <WCoordinate>55.82607</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Крылатское</area>
+        <LCoordinate>37.375638</LCoordinate>
+        <WCoordinate>55.768004</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Люблино</area>
+        <LCoordinate>37.76148</LCoordinate>
+        <WCoordinate>55.676901</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Теплый Стан</area>
+        <LCoordinate>37.486736</LCoordinate>
+        <WCoordinate>55.644958</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Марьино</area>
+        <LCoordinate>37.732522</LCoordinate>
+        <WCoordinate>55.658615</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ново-Переделкино</area>
+        <LCoordinate>37.34166</LCoordinate>
+        <WCoordinate>55.639091</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Марьино</area>
+        <LCoordinate>37.758572</LCoordinate>
+        <WCoordinate>55.65945</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Капотня</area>
+        <LCoordinate>37.840626</LCoordinate>
+        <WCoordinate>55.655897</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Ясенево</area>
+        <LCoordinate>37.529501</LCoordinate>
+        <WCoordinate>55.591273</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Царицыно</area>
+        <LCoordinate>37.658772</LCoordinate>
+        <WCoordinate>55.63378</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Марьино</area>
+        <LCoordinate>37.741653</LCoordinate>
+        <WCoordinate>55.656133</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Орехово-Борисово Южное</area>
+        <LCoordinate>37.720925</LCoordinate>
+        <WCoordinate>55.60516</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Донской</area>
+        <LCoordinate>37.594217</LCoordinate>
+        <WCoordinate>55.710461</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Савёлки</area>
+        <LCoordinate>37.21271</LCoordinate>
+        <WCoordinate>55.995567</WCoordinate>
+    </DTP>
+    <DTP>
+        <region>Российская Федерация, г. Москва</region>
+        <area>Южное Бутово</area>
+        <LCoordinate>37.535241</LCoordinate>
+        <WCoordinate>55.546103</WCoordinate>
+    </DTP>
+</DTPList>
