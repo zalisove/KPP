@@ -66,7 +66,6 @@ public class DataSheetTableModel extends AbstractTableModel {
     public void setValueAt(Object value, int rowIndex, int columnIndex) {
         try {
             double d;
-            System.out.println(value);
             if (dataSheet != null) {
                 if (columnIndex == 0) {
                     dataSheet.getDataItem(rowIndex).setDate((String) value);

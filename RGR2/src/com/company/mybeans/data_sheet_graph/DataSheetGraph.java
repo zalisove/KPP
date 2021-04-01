@@ -31,10 +31,10 @@ public class DataSheetGraph extends JPanel {
 
     private void initialize() {
         isConnected = false;
-        deltaX = 5;
-        deltaY = 5;
+        deltaX = 3;
+        deltaY = 3;
         color = Color.red;
-        this.setSize(300, 400);
+        this.setSize(600, 600);
     }
 
     public DataSheet getDataSheet() {
@@ -84,9 +84,9 @@ public class DataSheetGraph extends JPanel {
     private double minX() {
         double result = 0;
         if (dataSheet == null) return result;
-
         int size = dataSheet.size();
-        for (int i = 0; i < size; i++) {
+        if(size > 0) result = dataSheet.getDataItem(0).getX();
+        for (int i = 1; i < size; i++) {
             if (dataSheet.getDataItem(i).getX() < result) {
                 result = dataSheet.getDataItem(i).getX();
             }
@@ -97,9 +97,9 @@ public class DataSheetGraph extends JPanel {
     private double maxX() {
         double result = 0;
         if (dataSheet == null) return result;
-
         int size = dataSheet.size();
-        for (int i = 0; i < size; i++) {
+        if(size > 0) result = dataSheet.getDataItem(0).getX();
+        for (int i = 1; i < size; i++) {
             if (dataSheet.getDataItem(i).getX() > result) {
                 result = dataSheet.getDataItem(i).getX();
             }
@@ -111,7 +111,8 @@ public class DataSheetGraph extends JPanel {
         double result = 0;
         if (dataSheet == null) return result;
         int size = dataSheet.size();
-        for (int i = 0; i < size; i++) {
+        if(size > 0) result = dataSheet.getDataItem(0).getY();
+        for (int i = 1; i < size; i++) {
             if (dataSheet.getDataItem(i).getY() < result) {
                 result = dataSheet.getDataItem(i).getY();
             }
@@ -124,7 +125,8 @@ public class DataSheetGraph extends JPanel {
         double result = 0;
         if (dataSheet == null) return result;
         int size = dataSheet.size();
-        for (int i = 0; i < size; i++) {
+        if(size > 0) result = dataSheet.getDataItem(0).getY();
+        for (int i = 1; i < size; i++) {
             if (dataSheet.getDataItem(i).getY() > result) {
                 result = dataSheet.getDataItem(i).getY();
             }
@@ -162,7 +164,7 @@ public class DataSheetGraph extends JPanel {
         float[] dashPattern = {10, 10};
         gr.setStroke(new BasicStroke(1.0f, BasicStroke.CAP_BUTT,
                 BasicStroke.JOIN_MITER, 10.0f, dashPattern, 0));
-        gr.setFont(new Font("Serif", Font.BOLD, 14));
+        gr.setFont(new Font("Serif", Font.BOLD, 10));
 
         double xStep = 1;
         double yStep = 1;
