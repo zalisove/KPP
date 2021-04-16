@@ -5,8 +5,7 @@ import javax.swing.border.EmptyBorder;
 import java.awt.*;
 
 
-public class
-Task1 extends JFrame {
+public class Task1 extends JFrame {
     private final JPanel contentPane;
     private JTextField textFieldClassFullName;
     private JTextArea classDataArea;
