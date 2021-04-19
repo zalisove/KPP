@@ -35,7 +35,6 @@ public class Application extends JFrame {
         setContentPane(contentPane);
         setDefaultCloseOperation(DO_NOTHING_ON_CLOSE);
 
-        setResizable(false);
         massageTextField = new JTextField(40);
         massageArea = new JTextArea();
         sendButton = new JButton("Send");

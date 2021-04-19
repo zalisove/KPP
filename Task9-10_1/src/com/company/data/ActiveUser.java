@@ -19,6 +19,9 @@ public class ActiveUser implements Serializable, Iterable<User>{
         return users.contains(user);
     }
 
+    public int size(){
+        return users.size();
+    }
     @Override
     public String toString() {
         StringBuilder stringBuilder = new StringBuilder();

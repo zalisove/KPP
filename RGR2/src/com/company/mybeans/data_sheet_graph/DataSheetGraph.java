@@ -153,7 +153,7 @@ public class DataSheetGraph extends JPanel {
         double xScale = width / (xMax - xMin);
         double yScale = height / (yMax - yMin);
         double x0 = -xMin * xScale;
-        double y0 = yMax * xScale;
+        double y0 = yMax * yScale;
 
         Paint oldColor = gr.getPaint();
         gr.setPaint(Color.WHITE);

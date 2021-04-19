@@ -53,7 +53,7 @@ public class Client {
         }finally {
             socket.close();
         }
-        System.out.println("Registered user: " + users.spliterator());
+        System.out.println("Registered user: " + users.size());
         System.out.println(users);
     }
 
