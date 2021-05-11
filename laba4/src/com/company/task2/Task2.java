@@ -48,7 +48,7 @@ public class Task2 {
             transformer.setOutputProperty(OutputKeys.ENCODING,"UTF-8");
             transformer.setOutputProperty(OutputKeys.STANDALONE,"yes");
             transformer.setOutputProperty(OutputKeys.INDENT,"yes");
-            transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "4");
+            transformer.setOutputProperty("http://xml.apache.org/xslt}indent-amount", "4");
 
 
 

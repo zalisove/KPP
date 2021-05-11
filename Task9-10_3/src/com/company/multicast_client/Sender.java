@@ -28,7 +28,6 @@ public class Sender implements Runnable {
         this.ui = ui;
     }
 
-    @Override
     public void run() {
         try {
             String massage = name + ": " + ui.getMassage();
