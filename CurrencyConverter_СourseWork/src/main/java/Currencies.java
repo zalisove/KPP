@@ -20,10 +20,6 @@ public class Currencies implements Iterable<CurrencyItem> {
         currencies.add(new CurrencyItem(1, "Українська гривня", 1, "UAN", formatter.format(new Date())));
     }
 
-    public List<CurrencyItem> getCurrencies() {
-        return new ArrayList<>(currencies);
-    }
-
     public void sortByCC() {
         currencies.sort(Comparator.comparing(CurrencyItem::getCc));
     }
